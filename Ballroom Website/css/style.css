@@ -1,0 +1,151 @@
+body { 
+    padding-top:65px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.table-borderless tbody tr td {
+    border: none;
+    border-top: none !important;
+}
+
+.center-pills { display: inline-block; }
+
+.center-table {
+   margin: 0 auto !important;
+   float: none !important;
+}
+
+.pull-right-sm {
+    float: center;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .pull-right-sm {
+        float: right;
+    }
+}
+
+.calendar-widget-sm {
+    width: 315px;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .calendar-widget-sm {
+        width: 370px;
+    }
+}
+
+/* Medium Devices, Desktops (992px and up) */
+@media (min-width: 992px) {
+    .calendar-widget-sm {
+        width: 425px;
+    }
+}
+
+.pill-ballroom > li.active > a,
+.pill-ballroom > li.active > a:focus,
+.pill-ballroom > li.active > a:hover {
+    color: #ffffff;
+    background-color: #e06666;
+}
+
+.btn-ballroom { 
+  color: #ecf0f1; 
+  background-color: #bf2121; 
+  border-color: #a31c1c; 
+} 
+ 
+.btn-ballroom:hover, .btn-ballroom:focus, .btn-ballroom:active, .btn-ballroom.active, .open .dropdown-toggle.btn-ballroom { 
+  color: #ecf0f1; 
+  background-color: #a31c1c; 
+  border-color: #a31c1c; 
+} 
+ 
+.btn-ballroom:active, .btn-ballroom.active, .open .dropdown-toggle.btn-ballroom { 
+  background-image: none; 
+} 
+ 
+.btn-ballroom.disabled, .btn-ballroom[disabled], fieldset[disabled] .btn-ballroom, .btn-ballroom.disabled:hover, .btn-ballroom[disabled]:hover, fieldset[disabled] .btn-ballroom:hover, .btn-ballroom.disabled:focus, .btn-ballroom[disabled]:focus, fieldset[disabled] .btn-ballroom:focus, .btn-ballroom.disabled:active, .btn-ballroom[disabled]:active, fieldset[disabled] .btn-ballroom:active, .btn-ballroom.disabled.active, .btn-ballroom[disabled].active, fieldset[disabled] .btn-ballroom.active { 
+  background-color: #bf2121; 
+  border-color: #a31c1c; 
+} 
+ 
+.btn-ballroom .badge { 
+  color: #bf2121; 
+  background-color: #ecf0f1; 
+}
+
+/* Custom Bootstrap */
+/* Navbar from here: http://work.smarchal.com/twbscolor/index.php 
+   http://work.smarchal.com/twbscolor/scss/bf2121a31c1cecf0f1ecdbff0 */
+
+.navbar-default {
+  background-color: #bf2121;
+  border-color: #a31c1c;
+}
+.navbar-default .navbar-brand {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #ecdbff;
+}
+.navbar-default .navbar-text {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #ecdbff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #ecdbff;
+  background-color: #a31c1c;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #ecdbff;
+  background-color: #a31c1c;
+}
+.navbar-default .navbar-toggle {
+  border-color: #a31c1c;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #a31c1c;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ecf0f1;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-link:hover {
+  color: #ecdbff;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ecdbff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ecdbff;
+    background-color: #a31c1c;
+  }
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
+}

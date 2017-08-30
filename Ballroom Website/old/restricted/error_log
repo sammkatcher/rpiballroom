@@ -1,0 +1,6 @@
+[08-Feb-2014 14:00:54 America/Denver] PHP Parse error:  syntax error, unexpected '$description' (T_VARIABLE) in /home4/brightk1/public_html/budget/spend.php on line 60
+[08-Feb-2014 14:01:14 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home4/brightk1/public_html/budget/spend.php on line 60
+[08-Feb-2014 14:09:09 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/brightk1/public_html/budget/add.php on line 222
+[08-Feb-2014 14:15:01 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/brightk1/public_html/budget/add.php on line 354
+[08-Feb-2014 14:50:18 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/brightk1/public_html/budget/sort.php on line 169
+[08-Feb-2014 14:50:21 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/brightk1/public_html/budget/sort.php on line 169

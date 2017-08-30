@@ -1,0 +1,217 @@
+
+/* Top nav menu style */
+
+#admin_nav{
+width: 60%;
+margin: 0 auto;
+padding-bottom: 10px;
+margin-bottom: 10px;
+min-width:700px;
+}
+
+ul.navlist
+{
+list-style: none;
+padding: 0;
+font-size: 0.8em;
+}
+
+ul.navlist li
+{
+display: block;
+float: left;
+margin: 0;
+padding: 0;
+}
+
+ul.navlist li a
+{
+display: block;
+padding: 0.5em;
+border-width: 1px;
+border-color: #ffe #aaab9c #ccc #fff;
+border-style: solid;
+color: #777;
+text-decoration: none;
+background: #f7f2ea;
+font-size: 18;
+}
+
+.navcontainer>ul.navlist li a { 
+width: auto; 
+}
+
+ul.navlist li.active a
+{
+background: #f0e7d7;
+color: #800000;
+}
+
+ul.navlist li a:hover, ul.navlist li.active a:hover
+{
+color: #800000;
+background: transparent;
+border-color: #aaab9c #fff #fff #ccc;
+}
+
+/*  Content */
+
+#container{
+background: #f0e7d7;
+width: 60%;
+margin: 0 auto;
+padding-top: 10px;
+min-width:650px;
+}
+
+
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:13px;
+}
+
+
+.mod{
+display: none;
+}
+
+.line_item{
+/*border: 1px solid black;*/
+width: 100%;
+}
+
+table {
+display: block;
+table-layout:fixed; 
+word-wrap:break-word;
+border: 1px solid black;
+width: 100%;
+}
+
+/* Message Bubble style */
+
+#info, #success, #warning, #error, #info, #validation {
+    border: 1px solid;
+    margin: 10px 0px;
+    padding:15px 10px 15px 50px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+	border-radius:.5em;
+	-moz-border-radius:.5em;
+	-webkit-border-radius:.5em;
+	display: none;
+	position: fixed;
+	bottom: 0.5em;
+	width: 56%;
+}
+#info {
+    color: #00529B;
+    background-color: #BDE5F8;
+    background-image: url('../site_images/info.png');
+}
+
+#success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+    background-image:url('../site_images/success.png');
+}
+
+#warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+    background-image: url('../site_images/warning.png');
+}
+
+#error {
+    color: #D8000C;
+    background-color: #FFBABA;
+    background-image: url('../site_images/error.png');
+}
+
+.msg_close{
+float: right; 
+margin: -10px -5px 0 0; 
+text-decoration: none; 
+cursor: pointer
+}
+
+
+/* Budget table display style*/
+
+.mod{
+display: none;
+}
+
+.descrip{
+
+}
+
+.goal{
+width: 40px;
+text-align: center;
+}
+
+.program{
+width: 70px;
+text-align: center;
+}
+
+.linenum{
+width: 50px;
+text-align: center;
+}
+
+.quantity{
+width: 60px;
+text-align: center;
+}
+
+.unit{
+width: 75px;
+text-align: center;
+}
+
+.total{
+width: 80px;
+text-align: center;
+}
+
+.user{
+width: 70px;
+}
+
+.date{
+width: 90px;
+}
+
+.add{
+width: 40px;
+border-right:1px solid black;
+}
+
+.total td{
+border-top:1px solid black;
+}
+
+.header td{
+border-bottom:1px solid black;
+}
+
+/* Filename cell display width */
+.filename_cell{
+width: 300px;
+}
+
+.button_cell{
+width: 150px;
+}
+
+/* Button Style */
+
+.delete_button {
+background-image: url(site_images/remove.png); 
+background-color:#f0e7d7; 
+border: solid 0px #000000; 
+width: 32px; 
+height: 32px;
+}

@@ -1,0 +1,13 @@
+[24-Jan-2017 12:01:34 America/New_York] PHP Warning:  require_once(VARS.php): failed to open stream: No such file or directory in /home/ballroom/public_html/old/index.php on line 3
+[24-Jan-2017 12:01:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'VARS.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ballroom/public_html/old/index.php on line 3
+[24-Jan-2017 12:02:04 America/New_York] PHP Warning:  require_once(VARS.php): failed to open stream: No such file or directory in /home/ballroom/public_html/old/index.php on line 3
+[24-Jan-2017 12:02:04 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'VARS.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ballroom/public_html/old/index.php on line 3
+[24-Jan-2017 12:02:06 America/New_York] PHP Warning:  require_once(VARS.php): failed to open stream: No such file or directory in /home/ballroom/public_html/old/index.php on line 3
+[24-Jan-2017 12:02:06 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'VARS.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ballroom/public_html/old/index.php on line 3
+[24-Jan-2017 12:02:37 America/New_York] PHP Warning:  scandir(slideshow/): failed to open dir: No such file or directory in /home/ballroom/public_html/old/home.php on line 29
+[24-Jan-2017 12:02:37 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/ballroom/public_html/old/home.php on line 29
+[24-Jan-2017 12:02:37 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ballroom/public_html/old/home.php on line 30
+[24-Jan-2017 12:02:37 America/New_York] PHP Warning:  scandir(news_stories/): failed to open dir: No such file or directory in /home/ballroom/public_html/old/home.php on line 50
+[24-Jan-2017 12:02:37 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/ballroom/public_html/old/home.php on line 50
+[24-Jan-2017 12:02:37 America/New_York] PHP Warning:  array_reverse() expects parameter 1 to be array, boolean given in /home/ballroom/public_html/old/home.php on line 52
+[24-Jan-2017 12:02:37 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ballroom/public_html/old/home.php on line 54
