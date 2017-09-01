@@ -115,6 +115,7 @@
           }
           /* otherwise include the 404 page */
           else{
+            echo "<script>console.log('Could not find" . $page . "');</script>";
             $wrong_page = $page;
 	    $page_path = '404.php';
           }
