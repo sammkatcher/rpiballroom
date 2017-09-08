@@ -1,7 +1,18 @@
 <img class="img-responsive" src="site_images/bg-header.png" alt="RPI Ballroom" />
 <br />
 
-<p>Welcome to the home of RPI's ballroom dancing community! RPI Ballroom Dance is composed of four groups: <a href="ballroom-latin">Ballroom/Latin</a>, <a href="swing">Lindy Hop Swing</a>, <a href="tango">Argentine Tango</a>, and the competitive <a href="team">Ballroom Team</a>. We are the among the largest student-run organizations at Rensselaer Polytechnic Institute, offering dancers of all skill levels a variety of options to have fun and improve their abilities. We hold various lessons and practices for all types of dance, including lessons specialized in Argentine Tango and Lindy Hop. We welcome all from RPI and the Albany Capital District. We hope you can join us!</p>
+<p>Welcome to the home of RPI's ballroom dancing community! 
+  RPI Ballroom Dance is composed of three groups: 
+  <a href="ballroom-latin">Ballroom/Latin</a>, 
+  <a href="swing">Lindy Hop Swing</a>,
+   and the competitive <a href="team">Ballroom Team</a>. 
+   We are the among the largest student-run organizations at 
+   Rensselaer Polytechnic Institute, offering dancers of all skill 
+   levels a variety of options to have fun and improve their abilities.
+   We hold various lessons and practices for all types of dance, 
+   including lessons specialized in Lindy Hop. 
+   We welcome all from RPI and the Albany Capital District. 
+   We hope you can join us!</p>
 
 <?php echo($start_of_lesson_message)?>
 

@@ -1,16 +1,18 @@
 <?php include('comp_nav.php')?>
-
+/*
 <script>
   document.getElementById("comp_nav_events").className = "active";
 </script>
 
 <br />
+
 <div class="text-center">
 Can't make it to the competition? View the live stream here:<br />
   <div class="text-center">
     <a class="btn btn-default btn-ballroom" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
   </div>
 </div>
+
 <br /><br />
 
 <p>In addition to the <i>standard</i> set of events we have (see what we did there?), we hold numerous other events for your fun and enjoyment. We have <b>Open Bronze</b> events (more below), <b>fun dances</b> throughout the day (including a traditional West Coast Swing at the end of the day), and (new this year) <b>Peabody!</b><p>
@@ -91,3 +93,4 @@ Can't make it to the competition? View the live stream here:<br />
 </table>
 <p>* Fun dances at the lunch break and throughout the day as time permits!<br />
   * The linked events are separated by a '/'. Separate events are indicated with a ','.</p>
+*/

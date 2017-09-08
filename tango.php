@@ -1,5 +1,6 @@
 <h1 class="title">Argentine Tango</h1>
-
+<h2> NOTE: The Argentine Tango Club is no longer a branch of RPI Ballroom. </h2>
+<p> There will be no Argentine Tango lessons this semester.</p>
 <h3>What is the Argentine Tango Club?</h3>
 <img class="img-responsive" style="float:right;padding:5px" width="400px" src="site_images/tango.jpg" />
 <p>The Argentine Tango track offers students the rare opportunity to learn the art and style of what is commonly nicknamed the "dance of passion." The Tango track strives to integrate students with the active Tango community outside of RPI as well, hoping to create as much exposure as possible so students can grow in their prowess while experiencing first hand the culture and social scene associated with the dance.</p>

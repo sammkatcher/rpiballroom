@@ -80,17 +80,17 @@ $team_tues_lesson = "7:00-9:00pm";
 $team_thurs_lesson = "9:00-10:00pm";
 $team_sun_lesson = "3:00-6:00pm";
 
-$start_of_lesson_message = "<p>The <b>Fall 2017 Lessons</b> are right around the corner! As the <!--<a href='https://www.facebook.com/events/158763137944039/'>-->Intro Dance<!--</a>--> is Friday, September 1st, the first week of lessons will begin on September 11th, with Argentine Tango on Monday (if you are interested in Team, lessons start Sunday, September 10th)! As always, the first lesson of each style is free!</p><p>Practices will begin the first week of classes.</p><p>We restart our lesson tracks every semester, Fall and Spring, so make sure to keep us in mind for the future!</p>";
+$start_of_lesson_message = "<p>The <b>Fall 2017 Lessons</b> are right around the corner! As the <!--<a href='https://www.facebook.com/events/158763137944039/'>-->Intro Dance<!--</a>--> is Friday, September 1st, the first week of lessons will begin on September 11th! The first Beginner Ballroom/ Latin Club lesson will be on September 14th at 6pm. If you are interested in Team, lessons start Tuesday, September 12th! As always, the first lesson of each style is free!</p><p>Practices will begin the first week of classes.</p><p>We restart our lesson tracks every semester, Fall and Spring, so make sure to keep us in mind for the future!</p>";
 // End Lesson times
 
 // Begin eboard members
 $president = "Jeffrey Galczynski, '18";
-$tango_vp = "Sruja Machani, '20";
+$tango_vp = "Vacant, Vacant";
 $lindy_vp = "Sarah McRae, '20";
 $latin_vp = "Isabella Siu, '18";
 $captain1 = "Karen Baltazar, '17";
 $captain2 = "Samm Katcher, '19";
-$tango_tres = "Alexis Ziemba, Grad";
+$tango_tres = "Vacant, Vacant";
 $lindy_tres = "Steven Beninati, '20";
 $latin_tres = "Susannah Kane, '20";
 $team_tres = "Samantha Lee, '18";
@@ -102,13 +102,13 @@ $fundraising = "Brittany Wendzel, '18";
 // End eboard members
 
 // Begin team mentors
-$mentor_rumba = "Kuwabo";
+$mentor_rumba = "TBA";
 $mentor_chacha = "TBA";
-$mentor_swing = "Nicole";
-$mentor_latin = "Alex K.";
-$mentor_foxtrot = "Sam & Kevin";
-$mentor_waltz = "Eric";
-$mentor_tango = "Eric";
+$mentor_swing = "TBA";
+$mentor_latin = "TBA";
+$mentor_foxtrot = "TBA";
+$mentor_waltz = "TBA";
+$mentor_tango = "TBA";
 $mentor_standard = "Kevin & Stephanie";
 // End team mentors
 
