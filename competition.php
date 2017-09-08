@@ -4,7 +4,7 @@
   document.getElementById("comp_nav_home").className = "active";
 </script>
 
-<img src="/site_images/2017RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
+<img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
 <div>
   <p></p>
   <h3>The RPI Ballroom team is happy to announce the <i>2017 RPI Dancesport Competition!</i><br />
