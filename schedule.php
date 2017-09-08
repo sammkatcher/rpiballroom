@@ -3,14 +3,13 @@
 <div class="row">
   <!-- ARGENTINE TANGO -->
   <div class="col-sm-6 text-center">
-    <h2>Argentine Tango</h2>
+    <h2>Open Practice (All Groups)</h2>
     <table class="center-table text-center">
       <tr>
 	<td>
 	  <dl>
 	    <dt>Monday (Studio)</dt>
-	    <dd>Beginner: 5:30-6:30pm</dd>
-	    <dd>Intermediate: 6:30-7:30pm</dd>
+	    <dd>Practice: 5:30-7:30pm</dd>
 	  </dl>
 	  <dl>
 	    <dt>Wednesday (Studio)</dt>
@@ -76,9 +75,9 @@
 	<td>
 	  <dl>
 	    <dt>Lessons (Studio)</dt>
-	    <dd>Sun: 3:00-6:00pm</dd>
+	    <dd>Sun: 3:00-5:00pm</dd>
 	    <dd>Tues: 8:00-9:00pm</dd>
-	    <dd>Thurs: 8:00-10:00pm</dd>
+	    <dd>Thurs: 8:15-10:00pm</dd>
 	  </dl>
 	  <dl>
 	    <dt>Open Practices</dt>
@@ -94,7 +93,7 @@
 </div>
 
 <h2>Location</h2>
-<p>All Ballroom/Latin, Lindy Hop, and Argentine Tango lessons are held in Academy Hall at RPI, located at the intersection of 15th Street and College Avenue, across from Moe’s. A parking lot is available behind Academy Hall, accessible on College Avenue.</p>
+<p>All Ballroom/Latin, Lindy Hop, and Team lessons are held in Academy Hall at RPI, located at the intersection of 15th Street and College Avenue, across from Moe’s. A parking lot is available behind Academy Hall, accessible on College Avenue.</p>
 <p>Events marked with (Studio) are in the Dance Studio, formerly known as the Student Activities Room (SAR), which is on the first floor of academy hall (down one flight of stairs). </p>
 <p>Events marked with (AUD) are in the Auditorium, which is on the third floor of academy hall (up one flight of stairs). </p>
 

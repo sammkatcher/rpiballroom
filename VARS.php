@@ -139,7 +139,7 @@ $price_single_student = "$60";
 $price_single_non = "$85";
 $price_full_student = "$100";
 $price_full_non = "$150";
-$price_team_student = "$30";
+$price_team_student = "$45";
 $price_team_non = $price_team_student;
 
 // End prices
