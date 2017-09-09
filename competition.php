@@ -7,7 +7,7 @@
 <img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
 <div>
   <p></p>
-  <h3>The RPI Ballroom team is happy to announce the <i>2017 RPI Dancesport Competition!</i><br />
+  <h3>The RPI Ballroom team is happy to announce the <i>2018 RPI Dancesport Competition!</i><br />
     <font color="red"><b>Sunday, April 8th, 2018</b></font><br /></h3>
   <div class="text-center">
     <a class="btn btn-default btn-ballroom" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
