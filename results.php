@@ -39,27 +39,27 @@
     <th colspan="2"><h3>2015-16</h3></th>
   </thead>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=mit16">MIT Open 2016</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=mit16">MIT Open 2016</a></td>
     <td class="text-right">Team Results</td></tr>    
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=rpi16">RPI Dancesport Competition 2016</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=rpi16">RPI Dancesport Competition 2016</a></td>
     <td class="text-right"><a href="results_rpi_2016">Team Results</a></td></tr>    
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=cub16">Worcester Classic 2016</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=cub16">Worcester Classic 2016</a></td>
     <td class="text-right"><a href="results_wpi_2016">Team Results</a></td></tr>
   <tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=mds15">Minuteman DanceSport Classic 2015</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=mds15">Minuteman DanceSport Classic 2015</a></td>
     <td class="text-right"><a href="results_umass_2015">Team Results</a></td></tr>
   <tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=cdd15">Cornell DanceSport Classic 2015</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=cdd15">Cornell DanceSport Classic 2015</a></td>
     <td class="text-right"><a href="results_cornell_2015">Team Results</a></td></tr>
   <tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=ybt15">Yale Ballroom Dance Competition 2015</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=ybt15">Yale Ballroom Dance Competition 2015</a></td>
     <td class="text-right"><a href="results_yale_2015">Team Results</a></td></tr>
   <tr>
 </table>
@@ -70,33 +70,33 @@
     <th colspan="2"><h3>2014-15</h3></th>
   </thead>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=rub15">Rutgers DanceSport Competition 2015</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=rub15">Rutgers DanceSport Competition 2015</a></td>
     <td class="text-right"><a href="results_rutgers_2015">Team Results</a></td></tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=hcb15">Holy Cross 2015</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=hcb15">Holy Cross 2015</a></td>
     <td class="text-right"><a href="results_holycross_2015">Team Results</a></td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=rpi15">RPI DanceSport Competition 2015</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=rpi15">RPI DanceSport Competition 2015</a></td>
     <td class="text-right"><a href="results_rpi_2015">Team Results</a></td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=bub15">Terrier DanceSport Competition 2015 (Boston University)</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=bub15">Terrier DanceSport Competition 2015 (Boston University)</a></td>
     <td class="text-right">Team Results</td></tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=big14">Big Apple Dancesport Challenge (Columbia)</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=big14">Big Apple Dancesport Challenge (Columbia)</a></td>
     <td class="text-right"><a href="results_badc_2014f">Team Results</a></td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=mds14">Minuteman Dancesport Classic</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=mds14">Minuteman Dancesport Classic</a></td>
     <td class="text-right"><a href="results_umass_2014">Team Results</a></td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=pbd14">Neil Clover Ballroom Challenge (Princeton)</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=pbd14">Neil Clover Ballroom Challenge (Princeton)</a></td>
     <td class="text-right"><a href="results_princeton_2014">Team Results</a></td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=cdc14">Cornell DanceSport Classic 2014</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=cdc14">Cornell DanceSport Classic 2014</a></td>
     <td class="text-right"><a href="results_cornell_2014">Team Results</a></td>
   </tr>
 </table>
@@ -107,11 +107,11 @@
     <th colspan="2"><h3>2013-14</h3></th>
   </thead>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=mit14">MIT Open Ballroom Dance Competition</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=mit14">MIT Open Ballroom Dance Competition</a></td>
     <td class="text-right">Team Results</td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=rpi14">RPI Dancesport Competition 2014</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=rpi14">RPI Dancesport Competition 2014</a></td>
     <td class="text-right"><a href="results_rpi_2014">Team Results</a></td>
   </tr>
   <tr>
@@ -127,11 +127,11 @@
     <td class="text-right">Team Results</td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=tub13">Tufts  Ballroom Competition 2013</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=tub13">Tufts  Ballroom Competition 2013</a></td>
     <td class="text-right">Team Results</td>
   </tr>
   <tr>
-    <td><a href="http://www.o2cm.com/Results/event3.asp?event=cdc13">Cornell DanceSport Classic 2013</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=cdc13">Cornell DanceSport Classic 2013</a></td>
     <td class="text-right">Team Results</td>
   </tr>
 </table>
