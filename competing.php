@@ -50,7 +50,7 @@
 <p>You can find information on variations between the International and American Styles, as well as the official syllabi, in USA Dance's <a href="http://usadance.org/dancesport/forms-and-resources/rules-policies-and-bylaws/">DanceSport Rulebook.</a></p>
 <h3>The Dance Floor</h3>
 <p>Couples compete against others of similar skill level in the following levels:</p>
-<ul class="square-list">
+<ul>
   <li>Newcomer/Pre-Bronze</li>
   <li>Bronze</li>
   <li>Silver</li>

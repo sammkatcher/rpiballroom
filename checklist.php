@@ -1,6 +1,6 @@
 <h1 class="title">Competition Checklist</h1>					
 <h3>General:</h3>
-<ul class="checked-list">
+<ul>
   <li>Change of clothes</li>
   <li>Comfortable (flat) shoes</li>
   <li>Change of socks</li>
@@ -15,7 +15,7 @@
   <li>Your A-Game</li>
 </ul>
 <h3>Lady Costume:</h3>
-<ul class="checked-list">
+<ul>
   <li>Smooth/Standard dress</li>
   <li>Rhythm/Latin dress</li>
   <li>Dance shorts</li>
@@ -23,7 +23,7 @@
   <li>Proper undergarments</li>
 </ul>
 <h3>Gentleman Costume:</h3>
-<ul class="checked-list">
+<ul>
   <li>Smooth/Standard shirt (preferably white)</li>
   <li>Latin/Rhythm shirt (black)</li>
   <li>Tie (preferably matching partner's smooth dress, black otherwise)</li>
@@ -34,20 +34,20 @@
   <li>Socks (black)</li>
 </ul>
 <h3>Shoes:</h3>
-<ul class="checked-list">
+<ul>
   <li>Competition shoes (clean and brushed)</li>
   <li>Shoe brush</li>
   <li>Vaseline (to prevent patent shoes from sticking)</li>
   <li>Heel protectors or suede</li>
 </ul>
 <h3>Appearance:</h3>
-<ul class="checked-list">
+<ul>
   <li>Hair products</li>
   <li>Makeup</li>
   <li>Jewelry</li>
 </ul>
 <h3>Maintenance:</h3>
-<ul class="checked-list">
+<ul>
   <li>Deodorant (You will sweat. A lot)</li>
   <li>Safety pins</li>
   <li>Double-sided tape</li>
@@ -58,7 +58,7 @@
   <li>Contact solution</li>
 </ul>
 <h3>Overnight Items:</h3>
-<ul class="checked-list">
+<ul>
   <li>Toiletries</li>
   <li>Towel</li>
   <li>Pillow</li>
