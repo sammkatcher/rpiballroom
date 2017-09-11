@@ -8,7 +8,7 @@
 
 <h3>What Will I Learn?</h3>
 <p>Ballroom &amp; Latin covers a wide range of dances throughout the year, with the second semester continuing the work of the first. You will learn:</p>
-<ul class="square-list">
+<ul>
   <li>Cha Cha</li>
   <li>East Coast Swing</li>
   <li>Foxtrot</li>
