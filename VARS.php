@@ -30,13 +30,13 @@ $NUM_NEWSPAGE_NEWS_STORIES = 20;
 
 // Begin Contact for Emails// correspond to options on contact form, indicate which email address to send contact request to
 $EMAILS = array( 1 => 'ballroom@union.rpi.edu',
-				2 => 'ballroom@union.rpi.edu',
-				3 => 'ballroom-webmaster@union.rpi.edu',	
-				4 => 'ballroom-competition@union.rpi.edu',
-				5 => 'contact-lindy@union.rpi.edu',		
-				6 => 'ballroom-captains@union.rpi.edu',	
-				7 => 'contact-tango@union.rpi.edu', 	
-				8=>'contact-latin@union.rpi.edu'	
+				2 => 'ballroom@union.lists.rpi.edu',
+				3 => 'ballroom-webmaster@union.lists.rpi.edu',
+				4 => 'ballroom-competition@union.lists.rpi.edu',
+				5 => 'contact-lindy@union.lists.rpi.edu',
+				6 => 'ballroom-captains@union.lists.rpi.edu',
+				7 => 'contact-tango@union.lists.rpi.edu',
+				8=>'contact-latin@union.lists.rpi.edu'
 			);
 
 // subjects for emails sent via contact form to allow sorting
