@@ -88,7 +88,7 @@ $email_message .= "</body></html>";
 
 
 // create email headers
-$headers  = 'From: '."no-reply@union.rpi.edu"."\r\n";
+$headers  = 'From: '."no-reply@union.lists.rpi.edu"."\r\n";
 //$headers .= 'Reply-To: '.$mail."\r\n";
 $headers .= 'X-Mailer: PHP/' . phpversion()."\r\n";
 $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
