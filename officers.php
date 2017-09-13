@@ -16,12 +16,12 @@
     </td>
     <td class="text-right"><em><?php echo($president)?></em></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <h5>VP, Argentine Tango</h5>
     </td>
     <td class="text-right"><em><?php echo($tango_vp)?></em></td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <h5>VP, Ballroom/Latin</h5>
@@ -46,12 +46,12 @@
     </td>
     <td class="text-right"><em><?php echo($captain2)?></em></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <h5>Treasurer, Argentine Tango</h5>
     </td>
     <td class="text-right"><em><?php echo($tango_tres)?></em></td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <h5>Treasurer, Ballroom &amp; Latin</h5>

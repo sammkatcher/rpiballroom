@@ -85,19 +85,19 @@ $start_of_lesson_message = "<p>The <b>Fall 2017 Lessons</b> are right around the
 
 // Begin eboard members
 $president = "Jeffrey Galczynski, '18";
-$tango_vp = "Vacant, Vacant";
+//$tango_vp = "Vacant, Vacant";
 $lindy_vp = "Sarah McRae, '20";
 $latin_vp = "Isabella Siu, '18";
 $captain1 = "Karen Baltazar, '17";
 $captain2 = "Samm Katcher, '19";
-$tango_tres = "Vacant, Vacant";
+//$tango_tres = "Vacant, Vacant";
 $lindy_tres = "Steven Beninati, '20";
 $latin_tres = "Susannah Kane, '20";
 $team_tres = "Samantha Lee, '18";
 $marketing = "Angela Ding, '18";
 $comp_coord = "Kuwabo Mubyana, Grad";
 $comp_coordinator = "Kuwabo";
-$social_chair = "Samm Katcher, '19; Dan Lubitz, '19";
+$social_chair = "Susannah Kane '20; Dan Lubitz, '19; Samm Katcher, '19";
 $fundraising = "Brittany Wendzel, '18";
 // End eboard members
 
