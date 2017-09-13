@@ -14,10 +14,6 @@
 
 <h3>Looking for lesson <a href="/schedule">schedule</a>? <a href="/pricing">Pricing information</a>? Check out our <a href="/faq">FAQ page</a>!</h3>
 
-<h3>The form is currently broken.</h3>
-
-<p>Please visit our <a href='http://www.facebook.com/RPIBallroom'>Facebook page</a> or contact galczj AT rpi DOT edu</p>
-
 <form role="form" accept-charset="UTF-8" method="post" action="send_form_email" id="contact-mail-page">
   <div class="form-group">
     <label class="control-label" for="edit-name">Name:</label>
@@ -54,6 +50,6 @@
   </div>
 
   <div class="form-group">        
-    <button type="submit" class="btn btn-default disabled">Send e-mail</button>
+    <button type="submit" class="btn btn-default btn-ballroom">Send e-mail</button>
   </div>
 </form>
