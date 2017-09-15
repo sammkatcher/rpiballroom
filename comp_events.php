@@ -1,5 +1,5 @@
 <?php include('comp_nav.php')?>
-/*
+
 <script>
   document.getElementById("comp_nav_events").className = "active";
 </script>
