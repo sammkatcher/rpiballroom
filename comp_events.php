@@ -93,4 +93,3 @@ Can't make it to the competition? View the live stream here:<br />
 </table>
 <p>* Fun dances at the lunch break and throughout the day as time permits!<br />
   * The linked events are separated by a '/'. Separate events are indicated with a ','.</p>
-*/
