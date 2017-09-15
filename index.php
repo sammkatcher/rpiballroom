@@ -69,6 +69,7 @@
 		<li><a href="/results">Past Competitions and Results</a></li>
 		<li><a href="/syllabus_steps">Team Syllabus Steps</a></li>
 		<li><a href="/mentors">Team Mentors</a></li>
+		<li><a href="/team_policies">Team Policies</a></li>
 	      </ul>
 	    </li>
 
