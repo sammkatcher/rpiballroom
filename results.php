@@ -2,13 +2,32 @@
 
 <p>Here you will find links to officially registered results from the competitions we have attended, as well as those of couples on the Team. They are arranged by academic year.</p>
 
+<!-- 2017 - 2018 -->
+<table class="table">
+  <thead>
+    <th colspan="2"><h3>2017-2018</h3></th>
+  </thead>
+    <td>Tufts Ballroom Competition 2017</td>
+    <td class="text-right">Team Results</td>
+  </tr>
+  <tr>
+    <td>Husky Classic 2017 (UConn)</td>
+    <td class="text-right">Team Results</td>
+  </tr>
+  <tr>
+    <td>Yale Ballroom Competition 2017</td>
+    <td class="text-right">Team Results</td>
+  </tr>
+</table>
+
+
 <!-- 2016 - 2017 -->
 <table class="table">
   <thead>
     <th colspan="2"><h3>2016-2017</h3></th>
   </thead>
   <tr>
-    <td>Rutgers DanceSport Competition 2017</td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=rub17">Rutgers DanceSport Competition 2017</a></td>
     <td class="text-right">Team Results</td>
   </tr>
   <tr>
