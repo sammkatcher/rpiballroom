@@ -87,9 +87,9 @@
 		<li><a href="/checklist">Competition Checklist</a></li>
 		<li><a href="/calculator">YCN Point Calculator</a></li>
 		<li class="divider"></li>
-		<li><a href="http://www.facebook.com/RPIBallroom">Facebook</a></li>
-		<li><a href="http://flickr.com/rpiballroom">Flickr</a></li>
-		<li><a href="http://snapwidget.com/tag/rpiballroom">Instagram</a></li>
+		<li><a href="https://www.facebook.com/RPIBallroom">Facebook</a></li>
+		<li><a href="https://flickr.com/rpiballroom">Flickr</a></li>
+		<li><a href="https://instagram.com/rpiballroom">Instagram</a></li>
 	      </ul>
 	    </li>
 
@@ -134,7 +134,7 @@
     <div class="container" id="footer">
       <hr>
       <div class="text-center">
-	<a class="btn" href="http://www.facebook.com/RPIBallroom">Facebook</a> | <a class="btn" href="http://flickr.com/rpiballroom">Flickr</a> | <a class="btn" href="http://snapwidget.com/tag/rpiballroom">Instagram</a> | <a class="btn" href="/contact">Contact Us</a> | <a class="btn" href="http://union.rpi.edu">RPI Union</a> | <a class="btn" href="http://rpi.edu">RPI</a>
+	<a class="btn" href="https://www.facebook.com/RPIBallroom">Facebook</a> | <a class="btn" href="https://flickr.com/rpiballroom">Flickr</a> | <a class="btn" href="https://instagram.com/rpiballroom">Instagram</a> | <a class="btn" href="/contact">Contact Us</a> | <a class="btn" href="http://union.rpi.edu">RPI Union</a> | <a class="btn" href="https://rpi.edu">RPI</a>
       </div>
       <div class="text-center">
         <?php
