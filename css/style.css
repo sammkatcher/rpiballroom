@@ -2,10 +2,6 @@ body {
     padding-top:65px;
 }
 
-ul {
-    list-style-type: none;
-}
-
 .table-borderless tbody tr td {
     border: none;
     border-top: none !important;
