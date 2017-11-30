@@ -38,3 +38,4 @@ if(!checkinclude($INCLUDED)) {
 </table>
 
 <p>If you are an RPI student, <?php echo($price_single_student);?> grants you access to all Lindy Hop Swing and Ballroom/Latin lessons per semester (<?php echo($price_full_student);?> for the whole year).  The membership fee is <?php echo($price_single_non);?> for non-RPI students (<?php echo($price_full_non);?> per year).  Joining the Ballroom Team is an additional fee of <?php echo($price_team_student);?> per semester.  (With 2 Lindy Hop Swing and 3 Ballroom &amp; Latin Lessons available each week, membership opens you up to a total of 30 lessons each semester, so you definitely get your money's worth!)</p>
+<p> Please note that dues are non-refundable. </p>
