@@ -29,7 +29,7 @@ $NUM_NEWSPAGE_NEWS_STORIES = 20;
 // End News Stories Settings
 
 // Begin Contact for Emails// correspond to options on contact form, indicate which email address to send contact request to
-$EMAILS = array( 1 => 'ballroom@union.rpi.edu',
+$EMAILS = array( 1 => 'ballroom@union.lists.rpi.edu',
 				2 => 'ballroom@union.lists.rpi.edu',
 				3 => 'ballroom-webmaster@union.lists.rpi.edu',
 				4 => 'ballroom-competition@union.lists.rpi.edu',
