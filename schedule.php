@@ -81,7 +81,7 @@
 	  </dl>
 	  <dl>
 	    <dt>Open Practices</dt>
-	    <dd>Mon: 6:00-8:00pm (AUD)</dd>
+	    <dd>Mon: 5:30-8:00pm (Studio)</dd>
 	    <dd>Wed: 6:00-9:00pm ('87 Gym)</dd>
 	    <dd>Fri: 5:00-7:00pm (Studio)</dd>
 	    <dd>Sat: 1:00-5:00pm (Studio)</dd>
