@@ -80,25 +80,35 @@ $team_tues_lesson = "7:00-9:00pm";
 $team_thurs_lesson = "9:00-10:00pm";
 $team_sun_lesson = "3:00-6:00pm";
 
-$start_of_lesson_message = "<p>The <b>Fall 2017 Lessons</b> are right around the corner! As the <!--<a href='https://www.facebook.com/events/158763137944039/'>-->Intro Dance<!--</a>--> is Friday, September 1st, the first week of lessons will begin on September 11th! The first Beginner Ballroom/ Latin Club lesson will be on September 14th at 6pm. If you are interested in Team, lessons start Tuesday, September 12th! As always, the first lesson of each style is free!</p><p>Practices will begin the first week of classes.</p><p>We restart our lesson tracks every semester, Fall and Spring, so make sure to keep us in mind for the future!</p>";
+$start_of_lesson_message = "<p>The <b>Spring 2018 Lessons</b> 
+	are right around the corner! As the Intro Dance
+	 is Friday, January 19th, the first week of lessons will 
+	 begin on January 22nd! The first Beginner Ballroom/ Latin 
+	 Club lesson will be on January 25th at 6pm. If you are 
+	 interested in Team, lessons start Tuesday, January 23rd!
+	  As always, the first lesson of each style is free!</p>
+
+	  <p>Practices will begin the first week of classes.</p>
+	  <p>We restart our lesson tracks every semester, Fall and 
+	  Spring, so make sure to keep us in mind for the future!</p>";
 // End Lesson times
 
 // Begin eboard members
-$president = "Jeffrey Galczynski, '18";
+$president = "Claire Hensley, '18";
 //$tango_vp = "Vacant, Vacant";
-$lindy_vp = "Sarah McRae, '20";
-$latin_vp = "Isabella Siu, '18";
-$captain1 = "Karen Baltazar, '17";
-$captain2 = "Samm Katcher, '19";
+$lindy_vp = "Steven Beninati, '20";
+$latin_vp = "Susannah Kane, '21";
+$captain1 = "Samm Katcher, '19";
+$captain2 = "Sarah McRae, '20";
 //$tango_tres = "Vacant, Vacant";
-$lindy_tres = "Steven Beninati, '20";
-$latin_tres = "Susannah Kane, '20";
-$team_tres = "Samantha Lee, '18";
-$marketing = "Angela Ding, '18";
+$lindy_tres = "Rachel Olkhers, '21";
+$latin_tres = "Allison Daboval, '21";
+$team_tres = "Maria Ruiz Cardenas, '21";
+$marketing = "Vacant";
 $comp_coord = "Kuwabo Mubyana, Grad";
 $comp_coordinator = "Kuwabo";
-$social_chair = "Susannah Kane '20; Dan Lubitz, '19; Samm Katcher, '19";
-$fundraising = "Brittany Wendzel, '18";
+$social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20";
+$fundraising = "Vacant";
 // End eboard members
 
 // Begin team mentors
