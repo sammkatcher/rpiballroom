@@ -8,14 +8,26 @@
     <th colspan="2"><h3>2017-2018</h3></th>
   </thead>
     <td>Tufts Ballroom Competition 2017</td>
-    <td class="text-right">Team Results</td>
+    <td class="text-right"><a href="http://results.o2cm.com/event3.asp?event=tub17">Team Results</a></td>
   </tr>
   <tr>
     <td>Husky Classic 2017 (UConn)</td>
-    <td class="text-right">Team Results</td>
+    <td class="text-right"><a href="http://results.o2cm.com/event3.asp?event=ucb17">Team Results</a></td>
   </tr>
   <tr>
     <td>Yale Ballroom Competition 2017</td>
+    <td class="text-right"><a href="http://results.o2cm.com/event3.asp?event=ybt17">Team Results</a></td>
+  </tr> 
+  <tr>
+    <td>Binghamton Ballroom Dance Revolution 2018</td>
+    <td class="text-right">Team Results</td>
+  </tr>
+  <tr>
+    <td>Minuteman Dancesport Classic 2018</td>
+    <td class="text-right">Team Results</td>
+  </tr>
+   <tr>
+    <td>RPI Dancesport Competition 2018</td>
     <td class="text-right">Team Results</td>
   </tr>
 </table>
