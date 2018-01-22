@@ -47,7 +47,7 @@
 <p>Money must be submitted before the competitor may compete (i.e. the day of the competition) although as soon as possible is better!</p>
 <p>Payment can be cash or checks (made out to RPI Ballroom) and can be mailed to:<br />
   RPI Ballroom<br />
-  c/o Eric Lam<br />
+  c/o Kuwabo Mubyana<br />
   110 8th Street<br />
   RU 3716<br />
   Troy, NY 12180</p>
