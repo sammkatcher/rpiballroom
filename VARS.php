@@ -97,14 +97,14 @@ $start_of_lesson_message = "<p>The <b>Spring 2018 Lessons</b>
 $president = "Claire Hensley, '18";
 //$tango_vp = "Vacant, Vacant";
 $lindy_vp = "Steven Beninati, '20";
-$latin_vp = "Susannah Kane, '21";
+$latin_vp = "Susannah Kane, '20";
 $captain1 = "Samm Katcher, '19";
 $captain2 = "Sarah McRae, '20";
 //$tango_tres = "Vacant, Vacant";
-$lindy_tres = "Rachel Olkhers, '21";
+$lindy_tres = "Rachel Oehlkers, '21";
 $latin_tres = "Allison Daboval, '21";
 $team_tres = "Maria Ruiz Cardenas, '21";
-$marketing = "Vacant";
+$marketing = "Troy Mundschenk, '21";
 $comp_coord = "Kuwabo Mubyana, Grad";
 $comp_coordinator = "Kuwabo";
 $social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20";
@@ -112,13 +112,13 @@ $fundraising = "Vacant";
 // End eboard members
 
 // Begin team mentors
-$mentor_rumba = "TBA";
-$mentor_chacha = "TBA";
-$mentor_swing = "TBA";
-$mentor_latin = "TBA";
-$mentor_foxtrot = "TBA";
-$mentor_waltz = "TBA";
-$mentor_tango = "TBA";
+$mentor_rumba = "Tyler & Kuwabo";
+$mentor_chacha = "Tyler & Kuwabo";
+$mentor_swing = "Tyler & Kuwabo";
+$mentor_latin = "Tyler & Kuwabo";
+$mentor_foxtrot = "Brendan & Samantha";
+$mentor_waltz = "Brendan & Samantha";
+$mentor_tango = "Brendan & Samantha";
 $mentor_standard = "Kevin & Stephanie";
 // End team mentors
 

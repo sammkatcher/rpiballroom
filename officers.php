@@ -88,12 +88,12 @@
     </td>
     <td class="text-right"><em><?php echo($social_chair)?></em></td>
   </tr>
-  <tr>
+  <!--tr>
     <td>
       <h5>Fundraising Chair</h5>
     </td>
     <td class="text-right"><em><?php echo($fundraising)?></em></td>
-  </tr>
+  </tr-->
   </tbody>
 </table>
 
