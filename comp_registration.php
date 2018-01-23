@@ -5,7 +5,7 @@
 </script>
 
 <div class="text-center">
-  <h3>2017 Registration is now closed!</h3>
+  <h3>2018 Registration is open!</h3>
   <a class="btn btn-default btn-ballroom disabled" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
 </div>
 <br />
