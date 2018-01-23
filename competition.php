@@ -10,7 +10,7 @@
   <h3>The RPI Ballroom team is happy to announce the <i>2018 RPI Dancesport Competition!</i><br />
     <font color="red"><b>Sunday, April 8th, 2018</b></font><br /></h3>
   <div class="text-center">
-    <a class="btn btn-default btn-ballroom" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
+    <a class="btn btn-default btn-ballroom disabled" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
   </div>
   <div class="text-center">
     <div class="row">
@@ -43,7 +43,7 @@
   <p>2013 Results can be found: <a href="https://docs.google.com/spreadsheet/ccc?key=0AuJ_EZu-y_widHZ2T29ZdUhMV1F2enNDRUl4SzhFYUE&amp;usp=sharing"> HERE!</a></p>
   <p>These were tallied manually from the judges score sheets by team members, instead.   We apologize in advance for any mistakes in final placements - we aren't professional scrutineers, but we did our best!  If you notice discrepancies please contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a> and we'll make the appropriate changes.</p>
   <p>Again, thank you for all of your patience and we apologize for the delay.</p>
-
-  <h4>The 2012 Competition results have been posted <a href="http://www.dance.zsconcepts.com/results/rpi2012/">HERE!</a></h4>
+  <h4>2011 RPI DanceSport Competition Results</h4>
+  <h4>The results have been posted <a href="http://www.dance.zsconcepts.com/results/rpi2012/">HERE!</a></h4>
 </div>
 
