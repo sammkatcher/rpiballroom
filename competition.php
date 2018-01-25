@@ -7,8 +7,11 @@
 <img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
 <div>
   <p></p>
-  <h3>The RPI Ballroom team is happy to announce the <i>2018 RPI Dancesport Competition!</i><br />
-    <font color="red"><b>Sunday, April 8th, 2018</b></font><br /></h3>
+  <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br />
+    <font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
+  <div class="text-center">
+    <p> Questions? Contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a>.</p>
+</div>
   <div class="text-center">
     <a class="btn btn-default btn-ballroom disabled" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
   </div>
@@ -23,7 +26,7 @@
       <h3>Check Your YCN Points</h3>
       <a class="btn btn-default btn-ballroom" href="calculator">YCN Point Calculator</a>
       </div>
-      
+
       <div class="col-sm-6">
       <h3>Reserve Spectator Tickets</h3>
       <a class="btn btn-default btn-ballroom disabled" href="http://goo.gl/forms/NLAvBmdspT">Reserve Tickets</a>
@@ -31,11 +34,7 @@
     </div>
   </div>
   <br />
-  <div class="text-center">
-    <p>
-      Questions? Contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a>.</p>
-    <p><br /></p>
-  </div>
+  
   <h4> 2017 RPI DanceSport competition Results </h4>
   <p>Thank you to everyone who attended our competition! We had a great time, and hope everyone enjoyed our Syllabus Peabody event. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi17">o2cm</a></p>
   <h4>2016 RPI DanceSport Competition Results</h4>
