@@ -4,7 +4,7 @@
   document.getElementById("comp_nav_schedule").className = "active";
 </script>
 
-<h2>This is the finalized schedule.</h2>
+<h2>Tentative Schedule.</h2>
 <br />
 <br />
 <table class="table">
