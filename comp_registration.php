@@ -8,6 +8,10 @@
   <h3>2018 Registration is open!</h3>
   <a class="btn btn-default btn-ballroom disabled" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
 </div>
+<div class="col-sm-6">
+    <h3>Check Your YCN Points</h3>
+    <a class="btn btn-default btn-ballroom" href="calculator">YCN Point Calculator</a>
+</div>
 <br />
 <p><b><i>**Be sure to check the <a href="comp_events">Events</a> page for details about additional Bronze events!!** </i></b></p>
 <p>(Be sure to check the <a href="comp_rules">Rules</a> page for details)</p>

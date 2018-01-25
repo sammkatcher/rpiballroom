@@ -29,6 +29,14 @@
       <li>$50 for a quarter page ad</li>
       <li>$25 for a 1/8 page ad</li>
     </ul>
+
+    <p> If you would like to submit a sponsorship by check, the check should be made out to RPI Ballroom and can be mailed to:<br/>
+      RPI Ballroom <br/>
+      110 8th Street <br/>
+      RU 3716 <br/>
+      Troy, NY 12180 <br/>
+  *Please write “competition sponsorship” in the memo section of the check.<br/>
+    </p>
     <p>For additional information on becoming a sponsor, please contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a>.</p>
   </div>
 
