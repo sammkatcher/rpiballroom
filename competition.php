@@ -16,14 +16,14 @@
     <div class="row">
       <div class="col-sm-6">
       <h3>Registration Coming Soon</h3>
-  <a class="btn btn-default btn-ballroom disabled" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
+      <a class="btn btn-default btn-ballroom disabled" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
       </div>
+    </div>
       <div class="col-sm-6">
       <h3>Check Your YCN Points</h3>
       <a class="btn btn-default btn-ballroom" href="calculator">YCN Point Calculator</a>
-      </div>
       <div class="col-sm-6">
-      <h3>Reserve spectator tickets below!</h3>
+      <h3>Reserve Spectator Tickets</h3>
       <a class="btn btn-default btn-ballroom disabled" href="http://goo.gl/forms/NLAvBmdspT">Reserve Tickets</a>
       </div>
     </div>
