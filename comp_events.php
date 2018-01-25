@@ -15,7 +15,7 @@ Can't make it to the competition? View the live stream here:<br />
 
 <br /><br />
 
-<p>In addition to the <em>standard</em> set of events we have (see what we did there?), we hold numerous other events for your fun and enjoyment. We have <strong>Open Bronze</strong> events (more below), <strong>fun dances</strong> throughout the day (including a traditional West Coast Swing at the end of the day), and (new this year) <strong>Peabody!</strong><p>
+<p>In addition to the <em>standard</em> set of events we have (see what we did there?), we hold numerous other events for your fun and enjoyment. We have <strong>Open Bronze</strong> events (more below), <strong>fun dances</strong> throughout the day (including a traditional West Coast Swing at the end of the day), and (back again this year) <strong>Peabody!</strong><p>
 
 <h3>What is Open Bronze?</h3>
 <p>You'll see them listed below as "Open Smooth" and "Open Rhythm" but they are still under the Bronze level!  What does this mean?  We are giving Bronze dancers the opportunity to get a little creative with their choreography!  Dancers should stay within Bronze level dancing (i.e. no continuity, etc.) but they are welcome to introduce open figures and are not limited to strict rules of lead-follow!  Make sense?  If you have any questions, feel free to ask!</p>

@@ -13,19 +13,21 @@
   Bobbi Davies<br />
   Paige Hammond<br />
   Pamela Kazimir<br />
-  Kevin McHugh<br />
-<!--  Ricardo Sopin<br />-->
-  Iriada Volodina<br />
+   David Hintz<br />
+  Jules Julian<br />
+  <!-- Kevin McHugh<br />-->
+  <!--  Ricardo Sopin<br />-->
+  <!--  Iriada Volodina<br />-->
   Jennifer Volpe<br />
 
   <h3>MC</h3>
-  John Mazza<br />
-  <!--Bryce Miller<br />-->
+  <!--John Mazza<br />-->
+  Bryce Miller<br />
 
   <h3>DJ</h3>
   Peter Collins<br />
 
   <h3>Scrutineer</h3>
-  Christopher Sayotovich<br />
-
+  <!-- Christopher Sayotovich<br /> -->
+  Leonard Diana<br/>
 </div>

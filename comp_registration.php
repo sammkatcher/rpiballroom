@@ -26,19 +26,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Early Bird (By Sat, Feb 25th)</b></td>
+      <td><b>Early Bird (By Thurs, March 8th)</b></td>
       <td>$25</td>
       <td>$40</td>
       <td>$45</td>
     </tr>
     <tr>
-      <td><b>Regular (By Sun, Mar 19th)</b></td>
+      <td><b>Regular (By Sun, April 1st)</b></td>
       <td>$30</td>
       <td>$45</td>
       <td>$50</td>
     </tr>
     <tr>
-      <td><b>Late (By Thurs, Mar 23rd)</b></td>
+      <td><b>Late (By Thurs, April 5th)</b></td>
       <td>$35</td>
       <td>$50</td>
       <td>$55</td>
@@ -55,4 +55,15 @@
   110 8th Street<br />
   RU 3716<br />
   Troy, NY 12180</p>
-<p>Confirmed withdrawal prior to March 23, 2017 is required for refund or to be exempt from payment. Additional exceptions are at the discretion of the competition coordinator.</p>
+<p>Confirmed withdrawal prior to April 5, 2018 is required for refund or to be exempt from payment. Additional exceptions are at the discretion of the competition coordinator.</p>
+
+<h3> TBA Requests </h3>
+<p>We know how hard it can be to find partners. This year, we are introducing a more formalized TBA 
+system. If you need a TBA partner, go ahead and register for the competition. Then request a TBA partner, 
+ahead of time, by filling out <a href= "https://goo.gl/forms/tFKg1UlugZo6IqT53"> this form</a>. 
+</p>
+
+<p> The earlier you can submit a TBA request, the better! Any individuals who submit TBA requests early 
+may be paired with a TBA partner before the competition. If you are not contacted (by e-mail) with your 
+TBA pairing, come and see us early at the check-in desk on the day of the competition. We will find you 
+a partner! </p>
