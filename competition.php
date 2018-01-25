@@ -7,8 +7,8 @@
 <img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
 <div>
   <p></p>
-  <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br />
-    <font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
+  <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br /></h3>
+    <h3><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
   <div class="text-center">
     <p> Questions? Contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a>.</p>
 </div>
