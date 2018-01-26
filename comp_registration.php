@@ -6,15 +6,15 @@
 
 <div class="text-center">
   <h3>2018 Registration is open!</h3>
-  <a class="btn btn-default btn-ballroom disabled" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
+  <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
 </div>
 <div class="text-center">
     <h3>Check Your YCN Points</h3>
-    <a class="btn btn-default btn-ballroom" href="calculator">YCN Point Calculator</a>
+    <a class="btn btn-default btn-ballroom" target="_blank" href="calculator">YCN Point Calculator</a>
 </div>
 <br />
-<p><b><i>**Be sure to check the <a href="comp_events">Events</a> page for details about additional Bronze events!!** </i></b></p>
-<p>(Be sure to check the <a href="comp_rules">Rules</a> page for details)</p>
+<p><b><i>**Be sure to check the <a target="_blank" href="comp_events">Events</a> page for details about additional Bronze events!!** </i></b></p>
+<p>(Be sure to check the <a target="_blank" href="comp_rules">Rules</a> page for details)</p>
 
 <h1>COMPETITOR FEES:</h1>
 <table class="table">
@@ -60,7 +60,7 @@
 <h3> TBA Requests </h3>
 <p>We know how hard it can be to find partners. This year, we are introducing a more formalized TBA 
 system. If you need a TBA partner, go ahead and register for the competition. Then request a TBA partner, 
-ahead of time, by filling out <a href= "https://goo.gl/forms/tFKg1UlugZo6IqT53"> this form</a>. 
+ahead of time, by filling out <a target="_blank" href= "https://goo.gl/forms/tFKg1UlugZo6IqT53"> this form</a>. 
 </p>
 
 <p> The earlier you can submit a TBA request, the better! Any individuals who submit TBA requests early 
