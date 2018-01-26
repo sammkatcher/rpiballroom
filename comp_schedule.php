@@ -9,31 +9,31 @@
 <br />
 <table class="table">
   <tr>
-    <td><b>Doors Open</b></td>
+    <td><strong>Doors Open</strong></td>
     <td class="text-right">7:00 AM</td>
   </tr>
   <tr>
-    <td><b>Standard</b></td>
+    <td><strong>Standard</strong></td>
     <td class="text-right">8:00 AM - 9:30 AM</td>
   </tr>
   <tr>
-    <td><b>Smooth</b></td>
+    <td><strong>Smooth</strong></td>
     <td class="text-right">9:30 AM - 11:45 AM</td>
   </tr>
   <tr>
-    <td><b>Lunch and Fun Dances</b></td>
+    <td><strong>Lunch and Fun Dances</strong></td>
     <td class="text-right">11:45 AM - 12:45 PM</td>
   </tr>
   <tr>
-    <td><b>Rhythm</b></td>
+    <td><strong>Rhythm</strong></td>
     <td class="text-right">12:45 PM - 3:00 PM</td>
   </tr>
   <tr>
-    <td><b>Latin</b></td>
+    <td><strong>Latin</strong></td>
     <td class="text-right">3:00 PM - 5:00 PM</td>
   </tr>
   <tr>
-    <td>Competition Ends! </td>
+    <td><strong>Competition Ends</strong></td>
     <td class="text-right">5:20 PM</td>
   </tr>
 </table>
