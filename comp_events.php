@@ -83,7 +83,7 @@
       <td>P</td>
     </tr>
     <tr>
-      <td><strong>Pre-Champ/Champ</strong></td>
+      <td><strong>Pre-Champ/Open</strong></td>
       <td>W/T/F/Q/V</td>
       <td>W/T/F/V</td>
       <td>C/R/Sw/B/M</td>
