@@ -14,17 +14,17 @@
   </div>
   <div class="container text-center">
     <div class="row">
-      <div class="col-sm-6">
+      <div class="col-sm-4">
         <h3>Registration Coming Soon</h3>
         <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
       </div>
     
-      <div class="col-sm-6">
+      <div class="col-sm-4">
         <h3>Check Your YCN Points</h3>
         <a class="btn btn-default btn-ballroom" target="_blank" href="calculator">YCN Point Calculator</a>
       </div>
 
-      <div class="col-sm-6">
+      <div class="col-sm-4">
         <h3>Reserve Spectator Tickets</h3>
         <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://goo.gl/forms/NLAvBmdspT">Reserve Tickets</a>
       </div>
