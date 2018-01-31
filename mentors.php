@@ -7,12 +7,23 @@
     <tr>
       <th>Dance</th>
       <th>Mentor</th>
-      <th>Email</th>
+      <!--<th>Email</th>-->
       <th>Date Available</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><strong>Rhythm</strong></td>
+      <td><?php echo($mentor_rhythm)?></td>
+      <td><?php echo($mentor_date_rhythm)?></td>
+    </tr>
+
+    <tr>
+      <td><strong>Smooth</strong></td>
+      <td><?php echo($mentor_smooth)?></td>
+      <td><?php echo($mentor_date_smooth)?></td>
+    </tr>
+    <!-- <tr>
       <td><strong>Rumba</strong></td>
       <td><?php echo($mentor_rumba)?></td>
       <td><img src="/site_images/mentors/rumba.png"></td>
@@ -21,7 +32,7 @@
     <tr>
       <td><strong>Cha Cha</strong></td>
       <td><?php echo($mentor_chacha)?></td>
-      <td>TBA<!--<img src="/site_images/mentors/chacha.png">--></td>
+      <td>TBA<img src="/site_images/mentors/chacha.png"></td>
       <td><?php echo($mentor_date_chacha)?></td>
     </tr>
     <tr>
@@ -54,14 +65,12 @@
       <td><img src="/site_images/mentors/tango.png"></td>
       <td><?php echo($mentor_date_tango)?></td>
     </tr>
-    <tr>
+    <tr> -->
       <td><strong>Standard</strong></td>
       <td><?php echo($mentor_standard)?></td>
-      <td><img src="/site_images/mentors/standard.png"></td>
       <td><?php echo($mentor_date_standard)?></td>
     </tr>
   </tbody>
 </table>
-
 * - Times will be during normal practice times on specified days. If unsure, contact mentor.<br />
 Mentors may be available during other times. Contact them to arrange something.

@@ -13,7 +13,7 @@
     <a class="btn btn-default btn-ballroom" target="_blank" href="calculator">YCN Point Calculator</a>
 </div>
 <br />
-<p><b><i>**Be sure to check the <a target="_blank" href="comp_events">Events</a> page for details about additional Bronze events!!** </i></b></p>
+<p><strong><em>**Be sure to check the <a target="_blank" href="comp_events">Events</a> page for details about additional Bronze events!!** </em></strong></p>
 <p>(Be sure to check the <a target="_blank" href="comp_rules">Rules</a> page for details)</p>
 
 <h1>COMPETITOR FEES:</h1>
@@ -26,19 +26,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Early Bird (By Thurs, March 8th)</b></td>
+      <td><strong>Early Bird (By Thurs, March 8th)</strong></td>
       <td>$25</td>
       <td>$40</td>
       <td>$45</td>
     </tr>
     <tr>
-      <td><b>Regular (By Sun, April 1st)</b></td>
+      <td><strong>Regular (By Sun, April 1st)</strong></td>
       <td>$30</td>
       <td>$45</td>
       <td>$50</td>
     </tr>
     <tr>
-      <td><b>Late (By Thurs, April 5th)</b></td>
+      <td><strong>Late (By Thurs, April 5th)</strong></td>
       <td>$35</td>
       <td>$50</td>
       <td>$55</td>

@@ -102,7 +102,7 @@ $captain1 = "Samm Katcher, '19";
 $captain2 = "Sarah McRae, '20";
 //$tango_tres = "Vacant, Vacant";
 $lindy_tres = "Rachel Oehlkers, '21";
-$latin_tres = "Allison Daboval, '21";
+$latin_tres = "Allison Daboval, '22";
 $team_tres = "Maria Ruiz Cardenas, '21";
 $marketing = "Troy Mundschenk, '21";
 $comp_coord = "Kuwabo Mubyana, Grad";
@@ -119,7 +119,9 @@ $mentor_latin = "Tyler & Kuwabo";
 $mentor_foxtrot = "Brendan & Samantha";
 $mentor_waltz = "Brendan & Samantha";
 $mentor_tango = "Brendan & Samantha";
-$mentor_standard = "Kevin & Stephanie";
+$mentor_standard = "Kris & Jess";
+$mentor_smooth = "Brendan & Samantha";
+$mentor_rhythm = "Kuwabo & Tyler"
 // End team mentors
 
 // Begin team mentor emails
@@ -142,6 +144,8 @@ $mentor_date_foxtrot = "Tuesday/Thursday 9PM";
 $mentor_date_waltz = "Tuesday/Thursday 9PM";
 $mentor_date_tango = "Tuesday/Thursday 9PM";
 $mentor_date_standard = "Saturday 1PM";
+$mentor_date_rhythm = "Saturday at 3pm";
+$mentor_date_smooth = "Saturday at 3pm";
 // End team mentor dates
 
 // Begin prices
