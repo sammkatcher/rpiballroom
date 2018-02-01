@@ -15,6 +15,7 @@
   <br/>
   <div class="container text-center">
     <div class="row">
+    
       <div class="col-sm-4">
         <h3>Registration Open</h3>
         <div><a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
@@ -29,6 +30,7 @@
         <h3>Reserve Spectator Tickets</h3>
         div><a class="btn btn-default btn-ballroom" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
       </div>
+
     </div>
   </div>
   
