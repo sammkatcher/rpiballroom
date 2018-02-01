@@ -144,8 +144,8 @@ $mentor_date_foxtrot = "Tuesday/Thursday 9PM";
 $mentor_date_waltz = "Tuesday/Thursday 9PM";
 $mentor_date_tango = "Tuesday/Thursday 9PM";
 $mentor_date_standard = "Saturday 1PM";
-$mentor_date_rhythm = "Saturday at 3pm";
-$mentor_date_smooth = "Saturday at 3pm";
+$mentor_date_rhythm = "Saturday 3PM";
+$mentor_date_smooth = "Saturday 3PM";
 // End team mentor dates
 
 // Begin prices
