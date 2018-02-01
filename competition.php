@@ -12,21 +12,21 @@
   <div class="text-center">
     <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
   </div>
-  <div class="container text-center">
+  <div class="container text-center panel-group">
     <div class="row">
-      <div class="col-sm-4">
-        <h3>Registration Open</h3>
-        <a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
+      <div class="col-sm-4 panel panel-danger">
+        <h3 class = "panel-heading">Registration Open</h3>
+        <div class = "panel-body"><a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a></div>
       </div>
     
-      <div class="col-sm-4">
-        <h3>Check Your YCN Points</h3>
-        <a class="btn btn-default btn-ballroom" target="_blank" href="calculator">YCN Point Calculator</a>
+      <div class="col-sm-4 panel panel-danger">
+        <h3 class = "panel-heading">Check Your YCN Points</h3>
+        div class = "panel-body"><a class="btn btn-default btn-ballroom" target="_blank" href="calculator">YCN Point Calculator</a></div>
       </div>
 
-      <div class="col-sm-4">
-        <h3>Reserve Spectator Tickets</h3>
-        <a class="btn btn-default btn-ballroom" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
+      <div class="col-sm-4 panel panel-danger">
+        <h3 class = "panel-heading">Reserve Spectator Tickets</h3>
+        div class = "panel-body"><a class="btn btn-default btn-ballroom" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a></div>
       </div>
     </div>
   </div>
