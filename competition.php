@@ -12,7 +12,7 @@
       Live Stream Available Here!</a>
   <br/>
   <br/>
-  <div class="container text-center">
+  <div class="container">
     <div class="row">
 
       <div class="col-sm-4">
