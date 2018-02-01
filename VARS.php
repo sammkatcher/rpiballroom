@@ -121,7 +121,7 @@ $mentor_waltz = "Brendan & Samantha";
 $mentor_tango = "Brendan & Samantha";
 $mentor_standard = "Kris & Jess";
 $mentor_smooth = "Brendan & Samantha";
-$mentor_rhythm = "Kuwabo & Tyler"
+$mentor_rhythm = "Kuwabo & Tyler";
 // End team mentors
 
 // Begin team mentor emails
