@@ -7,13 +7,15 @@
 <img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
   <p></p>
   <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br /></h3>
-  <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
-  <div class= "center"> <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a></div>
+  <div>
+    <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
+    <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://bit.ly/rpicomp2017">
+    Live Stream Available Here!</a>
+  </div>
   <br/>
   <br/>
   <div class="container text-center">
     <div class="row">
-
       <div class="col-sm-4">
         <h3>Registration Open</h3>
         <div><a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
@@ -28,7 +30,7 @@
         <h3>Reserve Spectator Tickets</h3>
         <a class="btn btn-default btn-ballroom" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
       </div>
-      </div>
+
     </div>
   </div>
   
@@ -53,8 +55,6 @@
   <h4>2011 RPI DanceSport Competition Results</h4>
   <h4>The results have been posted <a target="_blank" href="http://www.dance.zsconcepts.com/results/rpi2012/">HERE!</a></h4>
   
-</div>
-
 <div class="text-center">
   <p> Questions? Contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a>.</p>
 </div>
