@@ -17,7 +17,7 @@
 
       <div class="col-sm-4">
         <h3>Registration Open</h3>
-        <div><a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
+        <a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
       </div>
     
       <div class="col-sm-4">
