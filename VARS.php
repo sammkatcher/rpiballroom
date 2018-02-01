@@ -68,8 +68,8 @@ $tango_practica_time = "2:00-4:00pm";
 
 //swing
 $swing_lesson_day =  "Wednesday";
-$swing_1_lesson = "6:00-7:00pm";
-$swing_2_lesson = "7:00-8:00pm";
+$swing_1_lesson = "8:00-9:00pm";
+$swing_2_lesson = "9:00-10:00pm";
 
 //team
 $team_mon_practice = "8:00-10:00pm";
