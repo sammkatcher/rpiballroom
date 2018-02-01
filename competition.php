@@ -5,17 +5,15 @@
 </script>
 
 <img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
-<div>
   <p></p>
   <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br /></h3>
-    <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
-    <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
-  </div>
+  <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
+  <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
   <br/>
   <br/>
   <div class="container text-center">
     <div class="row">
-    
+
       <div class="col-sm-4">
         <h3>Registration Open</h3>
         <div><a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
