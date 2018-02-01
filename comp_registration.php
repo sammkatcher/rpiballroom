@@ -6,7 +6,7 @@
 
 <div class="text-center">
   <h3>2018 Registration Coming Soon!</h3>
-  <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://www.o2cm.com/forms/entry.asp?event=rpi">Register Now!</a>
+  <a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
 </div>
 <div class="text-center">
     <h3>Check Your YCN Points</h3>

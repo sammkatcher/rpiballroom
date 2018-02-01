@@ -6,9 +6,9 @@
 
 <br />
 <div class="text-center">
-Can't make it to the competition? View the live stream here:<br />
+Can not make it to the competition? View the live stream here:<br />
   <div class="text-center">
-    <a class="btn btn-default btn-ballroom" href="http://bit.ly/rpicomp2016">Live Stream Available Here!</a>
+    <a class="btn btn-default btn-ballroom disabled" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
   </div>
 </div>
 
@@ -18,7 +18,7 @@ Can't make it to the competition? View the live stream here:<br />
 <p>*Advanced reservations for spectators of visiting teams are also available upon request.</p>
 
 <div class="text-center">
-  <a class="btn btn-default btn-ballroom" href="http://goo.gl/forms/NLAvBmdspT">Reserve Tickets Here!</a>
+  <a class="btn btn-default btn-ballroom" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
 </div>
 
 <p>Looking for directions? Find them <a href="comp_venue">here!</a></p>
@@ -28,4 +28,4 @@ Can't make it to the competition? View the live stream here:<br />
 <p>Dancers from all over the northeast come to ballroom competitions to compete in many different styles of dance. There are the Smooth/Standard dances like Waltz and Foxtrot and there are Rhythm/Latin dances such as Cha Cha and Swing.</p>
 <p>Couples dance alongside other dancers of their level and are judged by a panel of judges who call them back to next rounds.</p>
 <p>Best part? You see wonderful dancing and great dresses.</p>
-<p>Cheer on your friends! Come have a blast! <a href="http://goo.gl/forms/NLAvBmdspT">Reserve tickets today!</a></p>
+<p>Cheer on your friends! Come have a blast! <a href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve tickets today!</a></p>
