@@ -28,7 +28,7 @@
         <h3>Reserve Spectator Tickets</h3>
         <a class="btn btn-default btn-ballroom" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
       </div>
-
+      </div>
     </div>
   </div>
   
