@@ -9,9 +9,10 @@
   <p></p>
   <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br /></h3>
     <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
-  <div class="text-center">
     <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
   </div>
+  <br/>
+  <br/>
   <div class="container text-center panel-group">
     <div class="row">
       <div class="col-sm-4 panel panel-danger">
@@ -31,7 +32,9 @@
     </div>
   </div>
   <br />
-  
+  <br />
+  <br />
+  <br />
   <h4> 2017 RPI DanceSport competition Results </h4>
   <p>Thank you to everyone who attended our competition! We had a great time, and hope everyone enjoyed our Syllabus Peabody event. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi17">o2cm</a></p>
   <h4>2016 RPI DanceSport Competition Results</h4>
