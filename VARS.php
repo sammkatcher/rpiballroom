@@ -29,14 +29,14 @@ $NUM_NEWSPAGE_NEWS_STORIES = 20;
 // End News Stories Settings
 
 // Begin Contact for Emails// correspond to options on contact form, indicate which email address to send contact request to
-$EMAILS = array( 1 => 'ballroom@union.lists.rpi.edu',
-				2 => 'ballroom@union.lists.rpi.edu',
-				3 => 'ballroom-webmaster@union.lists.rpi.edu',
-				4 => 'ballroom-competition@union.lists.rpi.edu',
-				5 => 'contact-lindy@union.lists.rpi.edu',
-				6 => 'ballroom-captains@union.lists.rpi.edu',
-				7 => 'contact-tango@union.lists.rpi.edu',
-				8=>'contact-latin@union.lists.rpi.edu'
+$EMAILS = array(1 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
+				2 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
+				3 => 'henslc@rpi.edu', //'ballroom-webmaster@union.lists.rpi.edu',
+				4 => 'henslc@rpi.edu', //'ballroom-competition@union.lists.rpi.edu',
+				5 => 'henslc@rpi.edu', //'contact-lindy@union.lists.rpi.edu',
+				6 => 'henslc@rpi.edu', //'ballroom-captains@union.lists.rpi.edu',
+				7 => 'henslc@rpi.edu', //'contact-tango@union.lists.rpi.edu',
+				8=>  'henslc@rpi.edu' //'contact-latin@union.lists.rpi.edu'
 			);
 
 // subjects for emails sent via contact form to allow sorting
