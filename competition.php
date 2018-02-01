@@ -35,7 +35,7 @@
   <br />
   <br />
   <br />
-  <div class = "col-med-12">
+  <div class = "col-sm-12">
     <h4> 2017 RPI DanceSport competition Results </h4>
     <p>Thank you to everyone who attended our competition! We had a great time, and hope everyone enjoyed our Syllabus Peabody event. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi17">o2cm</a></p>
     <h4>2016 RPI DanceSport Competition Results</h4>
