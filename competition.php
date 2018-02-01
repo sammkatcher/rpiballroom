@@ -14,7 +14,7 @@
   <br/>
   <div class="container text-center">
     <div class="row">
-    
+
       <div class="col-sm-4">
         <h3>Registration Open</h3>
         <div><a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
@@ -38,7 +38,7 @@
   <hr />
   <br />
   
-  <h4> 2017 RPI DanceSport competition Results </h4>
+  <h4> 2017 RPI DanceSport Competition Results </h4>
   <p>Thank you to everyone who attended our competition! We had a great time, and hope everyone enjoyed our Syllabus Peabody event. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi17">o2cm</a></p>
   <h4>2016 RPI DanceSport Competition Results</h4>
   <p>Thank you to everyone who attended our competition! It was one of our biggest in years! We hope everyone had a blast. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi16">o2cm</a></p>
