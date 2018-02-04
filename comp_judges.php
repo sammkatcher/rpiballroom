@@ -12,9 +12,9 @@
   Patrizia Contenta<br />
   Bobbi Davies<br />
   Paige Hammond<br />
-  Pamela Kazimir<br />
-   David Hintz<br />
+  David Hintz<br />
   Jules Julian<br />
+  Pamela Licht<br />
   <!-- Kevin McHugh<br />-->
   <!--  Ricardo Sopin<br />-->
   <!--  Iriada Volodina<br />-->
