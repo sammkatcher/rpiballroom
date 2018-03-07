@@ -19,7 +19,7 @@
   <button type="submit" class="btn btn-default btn-ballroom">Go!</button>
 </form>
 
-<h4> Understanding YCN Points </h4>
+<h3><strong> Understanding YCN Points <strong></h3>
 <p>The YCN point system determines eligibility for the Bronze, Silver, Gold, and Pre-Champ levels.</p>
 <ul>
   <li>To be eligible to compete you must have less than 7 points in the dance at that level.</li>
