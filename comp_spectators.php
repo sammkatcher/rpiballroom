@@ -8,7 +8,7 @@
 <div class="text-center">
 Can not make it to the competition? View the live stream here:<br />
   <div class="text-center">
-    <a class="btn btn-default btn-ballroom disabled" href="http://bit.ly/rpicomp2017">Live Stream Available Here!</a>
+    <a class="btn btn-default btn-ballroom" href="http://rpitv.org/productions/1327">Live Stream Available Here!</a>
   </div>
 </div>
 
