@@ -7,14 +7,15 @@
 <img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
   <p></p>
   <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br /></h3>
-  <h4> 8am - 5pm </h4>  
+  <h3 class="text-center"> 8am - 5pm </h3>  
   <div class= "text-center">
     <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
     <a class="btn btn-default btn-ballroom" target="_blank" href="http://rpitv.org/productions/1327">
       Live Stream Available Here!</a>
   </div>
 
-  <h4> Professional Demo by Florin Vlad &amp; Natalia O&apos;Connor (Multiple US National Adult Finalists), scheduled for the afternoon. </h4>
+  <br/>
+  <h4 class ="text-center"> Professional Demo by Florin Vlad &amp; Natalia O&apos;Connor (Multiple US National Adult Finalists), scheduled for the afternoon. </h4>
   <br/>
   <br/>
   <div class="container text-center">
