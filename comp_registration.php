@@ -60,7 +60,7 @@
 <h3> TBA Requests </h3>
 <p>We know how hard it can be to find partners. This year, we are introducing a more formalized TBA 
 system. If you need a TBA partner, go ahead and register for the competition. Then request a TBA partner, 
-ahead of time, by filling out <a target="_blank" href= "https://goo.gl/forms/tFKg1UlugZo6IqT53"> this form</a> by <strong>April 2nd</strong>. 
+ahead of time, by filling out <a target="_blank" href= "https://goo.gl/forms/tFKg1UlugZo6IqT53"> this form</a> by <strong>April 1st</strong>. 
 </p>
 
 <p> The earlier you can submit a TBA request, the better! Any individuals who submit TBA requests early 
