@@ -1,4 +1,4 @@
-h1 class="title">Salsa Workshops</h1>
+<h1 class="title">Salsa Workshops</h1>
 
 <h3>What are the Salsa Workshops?</h3>
 <img class="img-responsive" style="float:right;padding:5px" width="400px" src="site_images/salsa.jpg" />
