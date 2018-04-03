@@ -4,12 +4,12 @@
 <img class="img-responsive" style="float:right;padding:5px" width="400px" src="site_images/salsa.jpg" />
 <p> There are two different tracks, the beginner into intermediate salsa and the intermediate into advanced Salsa.</p>
 <p> Each workshop in the track will build on the last one! However, feel free to jump into any lesson! </p>
-<p> The beginner track will be at 7 pm and the advanced will be at 8 pm on: </p>
-<ul>
+<p> The <strong> beginner track will be at 7 pm</strong> and the <strong>advanced will be at 8 pm</strong> on: </p>
+<ul><strong>
   <li> April 10th </li>
   <li> April 17th </li>
   <li> April 24th </li>
-</ul>
+</strong></ul>
 <p> Each workshop will cost <strong> $10 for students and $15 for community members</strong>. </p>
 <p>None of these events are club specific so please invite your friends so you can show them how you spend your Tuesday and Thursday nights!
 <h3>Do I Need a Partner? What Should I Wear?</h3>
