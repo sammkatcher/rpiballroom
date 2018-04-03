@@ -49,6 +49,7 @@
 		<li><a href="/ballroom-latin">Ballroom & Latin</a></li>
 		<li><a href="/tango">Argentine Tango</a></li>
 		<li><a href="/swing">Lindy Hop Swing</a></li>
+    <li><a href="/salsa">Salsa</a></li>
 		<li class="divider"></li>
 		<li><a href="/officers">Officers</a></li>
 		<!-- <li><a href="#">History</a></li> -->
