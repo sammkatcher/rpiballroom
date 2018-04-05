@@ -14,27 +14,27 @@
   </tr>
   <tr>
     <td><strong>Standard</strong></td>
-    <td class="text-right">8:00 AM - 9:30 AM</td>
+    <td class="text-right">8:00 AM - 10:00 AM</td>
   </tr>
   <tr>
     <td><strong>Smooth</strong></td>
-    <td class="text-right">9:30 AM - 11:45 AM</td>
+    <td class="text-right">10:00 AM - 12:00 PM</td>
   </tr>
   <tr>
-    <td><strong>Lunch and Fun Dances</strong></td>
-    <td class="text-right">11:45 AM - 12:45 PM</td>
+    <td><strong>Lunch</strong></td>
+    <td class="text-right">12:00 PM - 12:30 PM</td>
   </tr>
   <tr>
     <td><strong>Rhythm</strong></td>
-    <td class="text-right">12:45 PM - 3:00 PM</td>
+    <td class="text-right">12:30 PM - 3:30 PM</td>
   </tr>
   <tr>
     <td><strong>Latin</strong></td>
-    <td class="text-right">3:00 PM - 5:00 PM</td>
+    <td class="text-right">3:30 PM - 5:30 PM</td>
   </tr>
   <tr>
     <td><strong>Competition Ends</strong></td>
-    <td class="text-right">5:20 PM</td>
+    <td class="text-right">5:30 PM</td>
   </tr>
 </table>
 
