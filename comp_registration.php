@@ -5,8 +5,8 @@
 </script>
 
 <div class="text-center">
-  <h3>2018 Registration Open</h3>
-  <a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
+  <h3>2018 Registration Closed</h3>
+  <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
 </div>
 <div class="text-center">
     <h3>Check Your YCN Points</h3>

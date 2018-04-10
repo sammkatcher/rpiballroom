@@ -10,7 +10,7 @@
   <h3 class="text-center"> 8am - 5pm </h3>  
   <div class= "text-center">
     <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
-    <a class="btn btn-default btn-ballroom" target="_blank" href="http://rpitv.org/productions/1327">
+    <a class="btn btn-default btn-ballroom disable" target="_blank" href="http://rpitv.org/productions/1327">
       Live Stream Available Here!</a>
   </div>
 
@@ -21,26 +21,20 @@
   <div class="container text-center">
     <div class="row">
 
-      <div class="col-sm-3">
-        <h3>Registration Open</h3>
-        <a class="btn btn-default btn-ballroom" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
+      <div class="col-sm-4">
+        <h3>2018 Registration Closed</h3>
+        <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
       </div>
     
-      <div class="col-sm-3">
+      <div class="col-sm-4">
         <h3>Check Your YCN Points</h3>
         <a class="btn btn-default btn-ballroom" target="_blank" href="calculator">YCN Point Calculator</a>
       </div>
 
-      <div class="col-sm-3">
+      <div class="col-sm-4">
         <h3>Reserve Spectator Tickets</h3>
-        <a class="btn btn-default btn-ballroom" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
+        <a class="btn btn-default btn-ballroom disabled" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
       </div>
-
-      <div class="col-sm-3">
-        <h3>Boxed Lunch Option</h3>
-        <a class="btn btn-default btn-ballroom" target="_blank" href="https://www.emailmeform.com/builder/emf/RPIBallroom2018/Boxedlunchorders">Reserve Lunch</a>
-      </div>
-
     </div>
   </div>
   
@@ -48,6 +42,8 @@
   <hr />
   <br />
   
+  <h4> 2018 RPI DanceSport Competition Results </h4>
+  <p> Results coming soon!</p>
   <h4> 2017 RPI DanceSport Competition Results </h4>
   <p>Thank you to everyone who attended our competition! We had a great time, and hope everyone enjoyed our Syllabus Peabody event. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi17">o2cm</a></p>
   <h4>2016 RPI DanceSport Competition Results</h4>
