@@ -18,6 +18,7 @@
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
+      <br/>
       <h3>Cha Cha</h3>
       <table class="table">
         <thead>
@@ -167,6 +168,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Rumba</h3>
       <table class="table">
         <thead>
@@ -307,6 +309,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Jive</h3>
       <table class="table">
         <thead>
@@ -455,6 +458,7 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
+      <br/>
       <h3>Cha Cha</h3>
       <table class="table">
         <thead>
@@ -483,6 +487,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Rumba</h3>
       <table class="table">
         <thead>
@@ -511,6 +516,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Samba</h3>
       <table class="table">
         <thead>
@@ -539,6 +545,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Jive</h3>
       <table class="table">
         <thead>
@@ -580,6 +587,7 @@
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
+      <br/>
       <h3>Cha Cha</h3>
       <table class="table">
         <thead>
@@ -608,6 +616,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Rumba</h3>
       <table class="table">
         <thead>
@@ -636,6 +645,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Samba</h3>
       <table class="table">
         <thead>
@@ -664,6 +674,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Jive</h3>
       <table class="table">
         <thead>
@@ -705,6 +716,7 @@
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
       <div class="card-body">
+      <br/>
       <h3>Cha Cha</h3>
       <table class="table">
         <thead>
@@ -733,6 +745,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Rumba</h3>
       <table class="table">
         <thead>
@@ -761,6 +774,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Samba</h3>
       <table class="table">
         <thead>
@@ -789,6 +803,7 @@
           </tr>
         </tbody>
       </table>
+      <br/>
       <h3>Jive</h3>
       <table class="table">
         <thead>
