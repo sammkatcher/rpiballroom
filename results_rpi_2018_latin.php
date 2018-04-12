@@ -7,14 +7,14 @@
 <h1>Latin Results</h1>
 <h2> The Quarter Final and Semi Final data is the Number of Callbacks in that round. </h2>
 <div id="accordion">
-    <div class="card">
-    <div class="card-header" id="headingOne">
-      <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Newcomer
-        </button>
-      </h5>
-    </div>
+    <div class="card well">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          Newcomer
+          </button>
+        </h5>
+      </div>
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
@@ -445,7 +445,7 @@
       </div>
     </div>
   </div>
-  <div class="card">
+  <div class="card well">
     <div class="card-header" id="headingTwo">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -570,7 +570,7 @@
       </div>
     </div>
   </div>
-  <div class="card">
+  <div class="card well">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -694,7 +694,7 @@
       </table>
     </div>
   </div>
-  <div class="card">
+  <div class="card well">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -819,7 +819,7 @@
     </div>
   </div>
   </div>
-  <div class="card">
+  <div class="card well">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
