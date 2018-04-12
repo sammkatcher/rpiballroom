@@ -218,8 +218,7 @@
             <td> 5 </td>
             <td><strong>4</strong></td>
           </tr>
-
-      <tr>
+          <tr>
             <td><strong>347</strong></td>
             <td> - </td>
             <td> 2 </td>
@@ -259,7 +258,7 @@
             <td><strong>7</strong></td>
           </tr>
 
-      <tr>
+          <tr>
             <td><strong>380</strong></td>
             <td> - </td>
             <td> 3 </td>
@@ -306,7 +305,6 @@
             <td> </td>
             <td><strong> </strong></td>
           </tr>
-
         </tbody>
       </table>
       <h3>Jive</h3>
@@ -457,7 +455,7 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
-      <h3>Waltz</h3>
+      <h3>Cha Cha</h3>
       <table class="table">
         <thead>
           <tr>
@@ -485,7 +483,7 @@
           </tr>
         </tbody>
       </table>
-      <h3>Quickstep</h3>
+      <h3>Rumba</h3>
       <table class="table">
         <thead>
           <tr>
@@ -513,7 +511,7 @@
           </tr>
         </tbody>
       </table>
-      <h3>Tango</h3>
+      <h3>Samba</h3>
       <table class="table">
         <thead>
           <tr>
@@ -541,7 +539,7 @@
           </tr>
         </tbody>
       </table>
-      <h3>Foxtrot</h3>
+      <h3>Jive</h3>
       <table class="table">
         <thead>
           <tr>
@@ -582,10 +580,118 @@
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-      <h3>Waltz</h3>
-      <h3>Quickstep</h3>
-      <h3>Tango</h3>
-      <h3>Foxtrot</h3>
+      <h3>Cha Cha</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Rumba</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Samba</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Jive</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
   <div class="card">
@@ -598,10 +704,118 @@
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-      <h3>Waltz</h3>
-      <h3>Quickstep</h3>
-      <h3>Tango</h3>
-      <h3>Foxtrot</h3>
+      <h3>Cha Cha</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Rumba</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Samba</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Jive</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+          <tr>
+            <td><strong>Couple</strong></td>
+            <td>First Round Recalls, if no first round put - </td>
+            <td>Quarter Final Recalls, if no qf put - </td>
+            <td>Semi Final Recalls</td>
+            <td><strong>Final Placement</strong></td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
   </div>
