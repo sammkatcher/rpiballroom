@@ -1,12 +1,12 @@
 <?php include('results_rpi_2018.php')?>
 
-<h1><strong>Latin Results</strong></h1>
+<h1><strong>Smooth Results</strong></h1>
 <p> The first round, quarter final, and semi final data is the number of callbacks in that round. </p>
 <div id="accordion">
   <div class="card well">
     <div class="card-header" id="headingTwo">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
           Newcomer
         </button>
       </h5>
@@ -347,7 +347,7 @@
           </tr>
         </thead>
         <tbody>
-        
+
         </tbody>
       </table>
     </div>
