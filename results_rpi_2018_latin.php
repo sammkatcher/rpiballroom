@@ -1371,19 +1371,109 @@
         </thead>
         <tbody>
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>153</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
           </tr>
+
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>325</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>4</strong></td>
           </tr>
+
+          <tr>
+            <td><strong>329</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>334</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 3 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>339</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>5</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>344</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>348</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>365</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>381</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>388</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 4 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>389</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 2 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>392</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>385</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>2</strong></td>
+          </tr>
+
         </tbody>
       </table>
       <br/>
@@ -1400,19 +1490,109 @@
         </thead>
         <tbody>
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>153</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
           </tr>
+
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>325</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 1 </td>
+            <td><strong>4</strong></td>
           </tr>
+
+          <tr>
+            <td><strong>329</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>334</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>339</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>5</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>344</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong>6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>348</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>365</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>381</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>388</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>389</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>392</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>385</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>2</strong></td>
+          </tr>
+
         </tbody>
       </table>
       <br/>
@@ -1429,19 +1609,109 @@
         </thead>
         <tbody>
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>153</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
           </tr>
+
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>325</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>5</strong></td>
           </tr>
+
+          <tr>
+            <td><strong>329</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>334</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 3 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>339</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>4</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>344</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 2 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>348</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>390</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 2 </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>381</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>388</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 4 </td>
+            <td><strong> 6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>389</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 2 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>392</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>385</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>2</strong></td>
+          </tr>
+
         </tbody>
       </table>
       <br/>
@@ -1458,19 +1728,109 @@
         </thead>
         <tbody>
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>153</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
           </tr>
+
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>325</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 3 </td>
+            <td><strong>5</strong></td>
           </tr>
+
+          <tr>
+            <td><strong>329</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>334</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>339</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 4 </td>
+            <td><strong>4</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>344</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>348</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>390</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>381</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>388</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 0 </td>
+            <td><strong>6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>389</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>392</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>385</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>2</strong></td>
+          </tr>
+
         </tbody>
       </table>
       </div>
@@ -1487,7 +1847,7 @@
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
       <div class="card-body">
       <br/>
-      <h3>Cha Cha</h3>
+      <h3>CRSJ</h3>
       <table class="table">
         <thead>
           <tr>
@@ -1500,18 +1860,11 @@
         </thead>
         <tbody>
           <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
-          </tr>
-          <tr>
-            <td><strong>Couple</strong></td>
-            <td>First Round Recalls, if no first round put - </td>
-            <td>Quarter Final Recalls, if no qf put - </td>
-            <td>Semi Final Recalls</td>
-            <td><strong>Final Placement</strong></td>
+            <td><strong>385</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td><strong>1</strong></td>
           </tr>
         </tbody>
       </table>
@@ -1616,6 +1969,139 @@
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
       <div class="card-body">
       <h3>Paso Doble</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>153</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>323</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>328</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 2 </td>
+            <td><strong>6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>348</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>368</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 1 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>378</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td>  </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>381</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>2</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>358</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> </td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>387</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 1 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>388</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>4</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>389</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 3 </td>
+            <td><strong>5</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>390</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 2 </td>
+            <td><strong>7</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>392</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>339</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 5 </td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>396</strong></td>
+            <td> - </td>
+            <td> - </td>
+            <td> 1 </td>
+            <td><strong> </strong></td>
+          </tr>
+
+        </tbody>
+      </table>
     </div>
   </div>
 </div>
