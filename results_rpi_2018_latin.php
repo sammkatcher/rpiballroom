@@ -1,4 +1,4 @@
-<?php include('results_rpi_2018.php')?>
+<?php include('results_rpi_2018.php')>
 
 <h1><strong>Latin Results</strong></h1>
 <p> The first round, quarter final, and semi final data is the number of callbacks in that round. </p>
