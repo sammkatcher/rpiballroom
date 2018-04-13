@@ -7,18 +7,64 @@
 <h1>Latin Results</h1>
 <h2> The Quarter Final and Semi Final data is the Number of Callbacks in that round. </h2>
 <div id="accordion">
-    <div class="card well">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+  <div class="card well">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
           Newcomer
-          </button>
-        </h5>
-      </div>
-
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+        </button>
+      </h5>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-       <h1> Newcomer Latin </h1>
+      <br/>
+      <h3>Cha Cha</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        </tbody>
+      </table>
+      <br/>
+      <h3>Rumba</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+         
+        </tbody>
+      </table>
+      <br/>
+      <h3>Jive</h3>
+      <table class="table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>First Round</th>
+            <th>Quarter Final</th>
+            <th>Semi Final</th>
+            <th>Final Placement</th>
+          </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+      </table>
       </div>
     </div>
   </div>
