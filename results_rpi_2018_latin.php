@@ -1,9 +1,5 @@
 <?php include('results_rpi_2018.php')?>
 
-<script>
-  document.getElementById("results_rpi_2018_latin").className = "active";
-</script>
-
 <h1><strong>Latin Results</strong></h1>
 <p> The first round, quarter final, and semi final data is the number of callbacks in that round. </p>
 <div id="accordion">
