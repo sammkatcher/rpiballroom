@@ -1,7 +1,7 @@
 <?php include('results_rpi_2018.php')?>
 
 <script>
-  document.getElementById("comp_nav_events").className = "active";
+  document.getElementById("results_rpi_2018_latin").className = "active";
 </script>
 
 <h1><strong>Latin Results</strong></h1>
