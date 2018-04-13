@@ -1,11 +1,11 @@
-<?php include('comp_nav.php')?>
+<?php include('results_rpi_2018.php')?>
 
 <script>
   document.getElementById("comp_nav_events").className = "active";
 </script>
 
 <h1><strong>Latin Results</strong></h1>
-<h3> The Quarter Final and Semi Final data is the Number of Callbacks in that round. </h3>
+<p> The first round, quarter final, and semi final data is the number of callbacks in that round. </p>
 <div id="accordion">
   <div class="card well">
     <div class="card-header" id="headingTwo">
