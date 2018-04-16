@@ -2514,6 +2514,7 @@
       </table>
     </div>
   </div>
+  </div>
   <div class="card well">
     <div class="card-header" id="headingSix">
       <h5 class="mb-0">
@@ -2547,5 +2548,4 @@
       </table>
     </div>
   </div>
-
 </div>
