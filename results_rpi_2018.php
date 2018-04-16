@@ -6,4 +6,5 @@
     <a type="button" class="btn btn-default btn-ballroom" href="/results_rpi_2018_rhythm">Rhythm</a></button>
     <a type="button" class="btn btn-default btn-ballroom" href="/results_rpi_2018_latin">Latin</a></button>
   </div>
+  <a href="/media/2018_RPI_LeaderNumbers.pdf" target="_blank">List of Leader Numbers</a>
 </div>
