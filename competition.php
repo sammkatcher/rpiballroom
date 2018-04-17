@@ -15,9 +15,6 @@
   </div>
 
   <br/>
-  <h4 class ="text-center"> Professional Demo by Florin Vlad &amp; Natalia O&apos;Connor (Multiple US National Adult Finalists), scheduled for the afternoon. </h4>
-  <br/>
-  <br/>
   <div class="container text-center">
     <div class="row">
 
@@ -43,7 +40,7 @@
   <br />
   
   <h4> 2018 RPI DanceSport Competition Results </h4>
-  <p> Results coming soon!</p>
+  <p> Thank you to everyone who attended our competition! It was a great day and it was amazing to see the demonstration by Florin &amp; Natalia! The day was scored manually, so results are available <a href="/results_rpi_2018">here</a>.</p>
   <h4> 2017 RPI DanceSport Competition Results </h4>
   <p>Thank you to everyone who attended our competition! We had a great time, and hope everyone enjoyed our Syllabus Peabody event. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi17">o2cm</a></p>
   <h4>2016 RPI DanceSport Competition Results</h4>
