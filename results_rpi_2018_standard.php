@@ -26,7 +26,117 @@
           </tr>
         </thead>
         <tbody>
-          
+          <tr>
+            <td><strong>233</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>3</td>
+            <td><strong>5</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>293</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>333</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>3</td>
+            <td><strong>7</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>340</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>4</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>347</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>3</td>
+            <td><strong>2</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>359</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>370</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>373</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>374</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>375</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>5</td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>380</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>391</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>393</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>396</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>3</td>
+            <td><strong>6</strong></td>
+          </tr>
         </tbody>
       </table>
       <br/>
@@ -42,7 +152,93 @@
           </tr>
         </thead>
         <tbody>
-          
+          <tr>
+            <td><strong>233</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>293</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>333</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>3</td>
+            <td><strong>6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>340</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>4</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>347</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td><strong>2</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>375</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>380</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>3</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>391</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>5</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>393</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>5</td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>396</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>397</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td><strong></strong></td>
+          </tr>
         </tbody>
       </table>
       <h3>Tango</h3>
@@ -57,7 +253,77 @@
           </tr>
         </thead>
         <tbody>
-          
+          <tr>
+            <td><strong>233</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>4</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>333</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>3</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>340</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>373</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>375</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>5</td>
+            <td><strong>2</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>380</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>5</td>
+            <td><strong>6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>391</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td><strong>5</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>393</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td>5</td>
+            <td><strong>1</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>397</strong></td>
+            <td>-</td>
+            <td>-</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
         </tbody>
       </table>
       <br/>
@@ -87,7 +353,245 @@
             </tr>
           </thead>
           <tbody>
-            
+            <tr>
+              <td><strong>236</strong></td>
+              <td>-</td>
+              <td>2 </td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>321</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>323</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>2</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>324</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>326</strong></td>
+              <td>-</td>
+              <td>2</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>328</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>1</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>329</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>3</td>
+              <td><strong>5</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>330</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>1</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>332</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>337</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>343</strong></td>
+              <td>-</td>
+              <td>5</td>
+              <td>4</td>
+              <td><strong>2</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>346</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>349</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>350</strong></td>
+              <td>- </td>
+              <td>5</td>
+              <td>5</td>
+              <td><strong>3</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>351</strong></td>
+              <td>- </td>
+              <td>3 </td>
+              <td>5</td>
+              <td><strong>1</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>354</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>355</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>356</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>357</strong></td>
+              <td>-</td>
+              <td>5</td>
+              <td>3</td>
+              <td><strong>4</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>358</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>363</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>365</strong></td>
+              <td>-</td>
+              <td>5</td>
+              <td>3</td>
+              <td><strong>6</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>366</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>368</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>378</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>384</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>386</strong></td>
+              <td>-</td>
+              <td></td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>389</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>393</strong></td>
+              <td>-</td>
+              <td>5</td>
+              <td>2</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>399</strong></td>
+              <td>-</td>
+              <td>3</td>
+              <td>1</td>
+              <td><strong></strong></td>
+            </tr>
           </tbody>
         </table>
         <br/>
@@ -103,7 +607,189 @@
             </tr>
           </thead>
           <tbody>
-            
+           <tr>
+              <td><strong>236</strong></td>
+              <td>-</td>
+              <td>2 </td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>321</strong></td>
+              <td>-</td>
+              <td>2</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>323</strong></td>
+              <td>-</td>
+              <td>2</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>324</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>326</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>328</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>329</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>5</td>
+              <td><strong>5</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>330</strong></td>
+              <td>-</td>
+              <td>2</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>343</strong></td>
+              <td>-</td>
+              <td>5</td>
+              <td>5</td>
+              <td><strong>3</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>346</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>350</strong></td>
+              <td>- </td>
+              <td>3</td>
+              <td>5</td>
+              <td><strong>1</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>351</strong></td>
+              <td>- </td>
+              <td>5</td>
+              <td>5</td>
+              <td><strong>2</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>353</strong></td>
+              <td>-</td>
+              <td>1</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>355</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>357</strong></td>
+              <td>-</td>
+              <td>5</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>363</strong></td>
+              <td>-</td>
+              <td>2</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>365</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>5</td>
+              <td><strong>6</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>366</strong></td>
+              <td>-</td>
+              <td>2</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>368</strong></td>
+              <td>-</td>
+              <td>3</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>378</strong></td>
+              <td>-</td>
+              <td>3</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>389</strong></td>
+              <td>-</td>
+              <td>3</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>393</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>3</td>
+              <td><strong>4</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>399</strong></td>
+              <td>-</td>
+              <td>2</td>
+              <td></td>
+              <td><strong></strong></td>
+            </tr> 
           </tbody>
         </table>
         <h3>Tango</h3>
@@ -118,7 +804,157 @@
             </tr>
           </thead>
           <tbody>
-            
+            <tr>
+              <td><strong>323</strong></td>
+              <td>-</td>
+              <td>3</td>
+              <td>4</td>
+              <td><strong>7</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>328</strong></td>
+              <td>-</td>
+              <td>4</td>
+              <td>1</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>329</strong></td>
+              <td>-</td>
+              <td>5</td>
+              <td>4</td>
+              <td><strong>6</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>337</strong></td>
+              <td>-</td>
+              <td>3</td>
+              <td>1</td>
+              <td><strong></strong></td>
+            </tr>
+
+              <tr>
+                <td><strong>343</strong></td>
+                <td>-</td>
+                <td>5</td>
+                <td>5</td>
+                <td><strong>4</strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>346</strong></td>
+                <td>-</td>
+                <td>1</td>
+                <td></td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>350</strong></td>
+                <td>- </td>
+                <td>3</td>
+                <td>5</td>
+                <td><strong>2</strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>351</strong></td>
+                <td>- </td>
+                <td>5</td>
+                <td>4</td>
+                <td><strong>1</strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>357</strong></td>
+                <td>-</td>
+                <td>5</td>
+                <td>4</td>
+                <td><strong>3</strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>358</strong></td>
+                <td>-</td>
+                <td>1</td>
+                <td></td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>359</strong></td>
+                <td>-</td>
+                <td>1</td>
+                <td></td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>363</strong></td>
+                <td>-</td>
+                <td>4</td>
+                <td>1</td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>368</strong></td>
+                <td>-</td>
+                <td>3</td>
+                <td>1</td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>378</strong></td>
+                <td>-</td>
+                <td>1</td>
+                <td></td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>384</strong></td>
+                <td>-</td>
+                <td>1</td>
+                <td></td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>387</strong></td>
+                <td>-</td>
+                <td>1</td>
+                <td></td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>389</strong></td>
+                <td>-</td>
+                <td>5</td>
+                <td>1</td>
+                <td><strong></strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>393</strong></td>
+                <td>-</td>
+                <td>5</td>
+                <td>4</td>
+                <td><strong>5</strong></td>
+              </tr>
+
+              <tr>
+                <td><strong>399</strong></td>
+                <td>-</td>
+                <td>4</td>
+                <td></td>
+                <td><strong></strong></td>
+              </tr>
           </tbody>
         </table>
         <br/>
@@ -134,7 +970,69 @@
             </tr>
           </thead>
           <tbody>
-            
+            <tr>
+              <td><strong>323</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>5</td>
+              <td><strong>6</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>329</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>5</td>
+              <td><strong>5</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>343</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>4</td>
+              <td><strong>3</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>346</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>2</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>350</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>4</td>
+              <td><strong>2</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>351strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>3</td>
+              <td><strong>1</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>357</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>2</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>393</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>5</td>
+              <td><strong>4</strong></td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -151,7 +1049,7 @@
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
       <br/>
-        <h3>Waltz</h3>
+        <h3>Waltz / Quickstep</h3>
         <table class="table">
           <thead>
             <tr>
@@ -163,11 +1061,89 @@
             </tr>
           </thead>
           <tbody>
-            
+            <tr>
+              <td><strong>326</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>8</td>
+              <td><strong>1</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>329</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>4</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>339</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>9</td>
+              <td><strong>2</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>342</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>5</td>
+              <td><strong>7</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>345</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>4</td>
+              <td><strong></strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>348</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>6</td>
+              <td><strong>4</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>357</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>5</td>
+              <td><strong>5</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>361</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>6</td>
+              <td><strong>6</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>381</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>9</td>
+              <td><strong>3</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>382</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>4</td>
+              <td><strong></strong></td>
+            </tr> 
           </tbody>
         </table>
         <br/>
-        <h3>Quickstep</h3>
+        <h3>Tango / Foxtrot</h3>
         <table class="table">
           <thead>
             <tr>
@@ -179,38 +1155,69 @@
             </tr>
           </thead>
           <tbody>
-            
-          </tbody>
-        </table>
-        <h3>Tango</h3>
-        <table class="table">
-          <thead>
             <tr>
-              <th></th>
-              <th>First Round</th>
-              <th>Quarter Final</th>
-              <th>Semi Final</th>
-              <th>Final Placement</th>
+              <td><strong>326</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>9</td>
+              <td><strong>2</strong></td>
             </tr>
-          </thead>
-          <tbody>
-            
-          </tbody>
-        </table>
-        <br/>
-        <h3>Foxtrot</h3>
-        <table class="table">
-          <thead>
+
             <tr>
-              <th></th>
-              <th>First Round</th>
-              <th>Quarter Final</th>
-              <th>Semi Final</th>
-              <th>Final Placement</th>
+              <td><strong>329</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>4</td>
+              <td><strong></strong></td>
             </tr>
-          </thead>
-          <tbody>
-            
+
+            <tr>
+              <td><strong>339</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>10</td>
+              <td><strong>1</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>348</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>10</td>
+              <td><strong>4</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>357</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>7</td>
+              <td><strong>5</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>361</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>9</td>
+              <td><strong>6</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>381</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>10</td>
+              <td><strong>3</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>389</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>1</td>
+              <td><strong></strong></td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -227,7 +1234,7 @@
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
       <div class="card-body">
         <br/>
-        <h3>Waltz</h3>
+        <h3>Waltz / Quickstep</h3>
         <table class="table">
           <thead>
             <tr>
@@ -239,11 +1246,42 @@
             </tr>
           </thead>
           <tbody>
-            
+            <tr>
+              <td><strong>338</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>3</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>382</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>4</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>388</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>2</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>392</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>1</strong></td>
+            </tr>
+
           </tbody>
         </table>
         <br/>
-        <h3>Quickstep</h3>
+        <h3>Tango / Foxtrot</h3>
         <table class="table">
           <thead>
             <tr>
@@ -255,38 +1293,38 @@
             </tr>
           </thead>
           <tbody>
-            
-          </tbody>
-        </table>
-        <h3>Tango</h3>
-        <table class="table">
-          <thead>
             <tr>
-              <th></th>
-              <th>First Round</th>
-              <th>Quarter Final</th>
-              <th>Semi Final</th>
-              <th>Final Placement</th>
+              <td><strong>338</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>3</strong></td>
             </tr>
-          </thead>
-          <tbody>
-            
-          </tbody>
-        </table>
-        <br/>
-        <h3>Foxtrot</h3>
-        <table class="table">
-          <thead>
+
             <tr>
-              <th></th>
-              <th>First Round</th>
-              <th>Quarter Final</th>
-              <th>Semi Final</th>
-              <th>Final Placement</th>
+              <td><strong>382</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>4</strong></td>
             </tr>
-          </thead>
-          <tbody>
-            
+
+            <tr>
+              <td><strong>388</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>2</strong></td>
+            </tr>
+
+            <tr>
+              <td><strong>392</strong></td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td><strong>1</strong></td>
+            </tr>
+
           </tbody>
         </table>
     </div>
@@ -314,6 +1352,141 @@
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <td><strong>323</strong></td>
+            <td>-</td>
+            <td>3</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>326</strong></td>
+            <td>-</td>
+            <td>5</td>
+            <td>5</td>
+            <td><strong>2</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>328</strong></td>
+            <td>-</td>
+            <td>2</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>329</strong></td>
+            <td>-</td>
+            <td>4</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>330</strong></td>
+            <td>-</td>
+            <td>3</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>332</strong></td>
+            <td>-</td>
+            <td>1</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>339</strong></td>
+            <td>-</td>
+            <td>5</td>
+            <td>4</td>
+            <td><strong>3</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>345</strong></td>
+            <td>-</td>
+            <td>4</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>348</strong></td>
+            <td>-</td>
+            <td>4</td>
+            <td>3</td>
+            <td><strong>6</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>351</strong></td>
+            <td>-</td>
+            <td>4</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>357</strong></td>
+            <td>-</td>
+            <td>4</td>
+            <td>4</td>
+            <td><strong>5</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>361</strong></td>
+            <td>-</td>
+            <td>4</td>
+            <td>3</td>
+            <td><strong>7</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>381</strong></td>
+            <td>-</td>
+            <td>5</td>
+            <td>2</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>383</strong></td>
+            <td>-</td>
+            <td></td>
+            <td>1</td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>388</strong></td>
+            <td>-</td>
+            <td>5</td>
+            <td>3</td>
+            <td><strong>4</strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>389</strong></td>
+            <td>-</td>
+            <td>2</td>
+            <td></td>
+            <td><strong></strong></td>
+          </tr>
+
+          <tr>
+            <td><strong>392</strong></td>
+            <td>-</td>
+            <td>5</td>
+            <td>5</td>
+            <td><strong>1</strong></td>
+          </tr>
 
         </tbody>
       </table>
