@@ -1987,7 +1987,7 @@
               <td>-</td>
               <td>-</td>
               <td>1</td>
-              <td><strong> </strong></td>
+              <td><strong></strong></td>
             </tr>
 
             <tr>
@@ -2129,7 +2129,7 @@
               <td>-</td>
               <td>-</td>
               <td>1</td>
-              <td><strong> t</strong></td>
+              <td><strong></strong></td>
             </tr>
 
             <tr>
