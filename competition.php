@@ -40,7 +40,9 @@
   <br />
   
   <h4> 2018 RPI DanceSport Competition Results </h4>
-  <p> Thank you to everyone who attended our competition! It was a great day and it was amazing to see the demonstration by Florin &amp; Natalia! The day was scored manually, so results are available <a href="/results_rpi_2018">here</a>.</p>
+  <p> Thank you to everyone who attended our competition! It was a great day of competitive dance, and a demo by Florin &amp; Natalia! Results are available <a href="/results_rpi_2018">here</a>.</p>
+  <p>These were tallied manually from the judges score sheets by team members, instead.   We apologize in advance for any mistakes in final placements - we aren't professional scrutineers, but we did our best!  If you notice discrepancies please contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a> and we'll make the appropriate changes.</p>
+  <p>Again, thank you for all of your patience and we apologize for the delay.</p>
   <h4> 2017 RPI DanceSport Competition Results </h4>
   <p>Thank you to everyone who attended our competition! We had a great time, and hope everyone enjoyed our Syllabus Peabody event. Results are available on <a href="http://results.o2cm.com/event3.asp?event=rpi17">o2cm</a></p>
   <h4>2016 RPI DanceSport Competition Results</h4>
