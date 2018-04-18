@@ -1362,7 +1362,7 @@
             <th>First Round</th>
             <th>Quarter Final</th>
             <th>Semi Final</th>
-            <th>Final Placement</th>
+            <th>Final Placement (C/R)</th>
           </tr>
         </thead>
         <tbody>
@@ -1481,7 +1481,7 @@
             <th>First Round</th>
             <th>Quarter Final</th>
             <th>Semi Final</th>
-            <th>Final Placement</th>
+            <th>Final Placement (C/R)</th>
           </tr>
         </thead>
         <tbody>
@@ -1600,7 +1600,7 @@
             <th>First Round</th>
             <th>Quarter Final</th>
             <th>Semi Final</th>
-            <th>Final Placement</th>
+            <th>Final Placement (S/J)</th>
           </tr>
         </thead>
         <tbody>
@@ -1719,7 +1719,7 @@
             <th>First Round</th>
             <th>Quarter Final</th>
             <th>Semi Final</th>
-            <th>Final Placement</th>
+            <th>Final Placement (S/J)</th>
           </tr>
         </thead>
         <tbody>
