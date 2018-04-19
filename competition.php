@@ -11,7 +11,7 @@
   <div class= "text-center">
     <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
     <a class="btn btn-default btn-ballroom disable" target="_blank" href="http://rpitv.org/productions/1327">
-      Live Stream Available Here!</a>
+      2018 Footage Available Here</a>
   </div>
 
   <br/>
