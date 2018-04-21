@@ -8,4 +8,6 @@
   </div>
   <br/>
   <a href="/media/2018_RPI_LeaderNumbers.pdf" target="_blank">List of Leader Numbers</a>
+  <br/>
+  <p>A blank spot or a 0 with your number in an event means no callbacks. </p>
 </div>
