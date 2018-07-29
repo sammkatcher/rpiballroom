@@ -98,33 +98,34 @@ $president = "Claire Hensley, '18";
 //$tango_vp = "Vacant, Vacant";
 $lindy_vp = "Steven Beninati, '20";
 $latin_vp = "Susannah Kane, '20";
-$captain1 = "Samm Katcher, '19";
+$captain1 = "Alex Schneiderman, '19";
 $captain2 = "Sarah McRae, '20";
 //$tango_tres = "Vacant, Vacant";
 $lindy_tres = "Rachel Oehlkers, '21";
 $latin_tres = "Allison Daboval, '22";
 $team_tres = "Maria Ruiz Cardenas, '21";
 $marketing = "Troy Mundschenk, '21";
-$comp_coord = "Kuwabo Mubyana, Grad";
-$comp_coordinator = "Kuwabo";
-$social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20";
+$comp_coord = "Zachary Taylor, '21'";
+$comp_coordinator = "Zachary";
+$social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20, Allison Daboval, '22";
 $fundraising = "Vacant";
 // End eboard members
 
 // Begin team mentors
-$mentor_rumba = "Tyler & Kuwabo";
-$mentor_chacha = "Tyler & Kuwabo";
-$mentor_swing = "Tyler & Kuwabo";
-$mentor_latin = "Tyler & Kuwabo";
-$mentor_foxtrot = "Brendan & Samantha";
-$mentor_waltz = "Brendan & Samantha";
-$mentor_tango = "Brendan & Samantha";
-$mentor_standard = "Kris & Jess";
-$mentor_smooth = "Brendan & Samantha";
-$mentor_rhythm = "Kuwabo & Tyler";
+$mentor_rumba = "";
+$mentor_chacha = "";
+$mentor_swing = "";
+$mentor_latin = "";
+$mentor_foxtrot = "";
+$mentor_waltz = "";
+$mentor_tango = "";
+$mentor_standard = "Kevin & Stephanie";
+$mentor_smooth = "Claire";
+$mentor_rhythm = "Brendan";
 // End team mentors
 
 // Begin team mentor emails
+//Unused as of 2017
 $mentor_email_rumba = "mubyak@rpi.edu";
 $mentor_email_chacha = "nicolepiche89@gmail.com";
 $mentor_email_swing = "wrighb3@rpi.edu";
