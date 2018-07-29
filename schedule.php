@@ -39,9 +39,9 @@
 	  </dl>
 	  <dl>
 	    <dt>Wednesday (87 Gym)</dt>    
-	    <dd>Open Practice: 6:00-8:00pm</dd>
+	    <dd>Open Practice: 6:00-7:00pm</dd>
+	    <dd>Lindy II: 7:00-8:00pm</dd>
 	    <dd>Lindy I: 8:00-9:00pm</dd>
-	    <dd>Lindy II: 9:00-10:00pm</dd>
 	  </dl>
 	</td>
       </tr>
@@ -78,7 +78,7 @@
 	    <dt>Lessons (Studio)</dt>
 	    <dd>Sun: 3:00-5:00pm</dd>
 	    <dd>Tues: 8:00-9:00pm</dd>
-	    <dd>Thurs: 8:15-10:00pm</dd>
+	    <dd>Thurs: 8:15-9:30pm</dd>
 	  </dl>
 	  <dl>
 	    <dt>Open Practices</dt>
