@@ -34,14 +34,9 @@
 	    <dd>Open Practice: 8:00-10:00pm</dd>
 	  </dl>
 	  <dl>
-	    <dt>Tuesday (AUD)</dt>
-	    <dd>Open Practice: 6:00-8:00pm</dd>
-	  </dl>
-	  <dl>
-	    <dt>Wednesday (87 Gym)</dt>    
-	    <dd>Open Practice: 6:00-7:00pm</dd>
-	    <dd>Lindy II: 7:00-8:00pm</dd>
-	    <dd>Lindy I: 8:00-9:00pm</dd>
+	    <dt>Wednesday (Auditorium)</dt>    
+	    <dd>Lindy II: 6:00-7:00pm</dd>
+	    <dd>Lindy I: 7:00-8:00pm</dd>
 	  </dl>
 	</td>
       </tr>
