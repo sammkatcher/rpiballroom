@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><a href="http://results.o2cm.com/event3.asp?event=mds18">Minuteman Dancesport Classic 2018</a></td>
-    <td class="text-right"><a href="">Team Results</a></td>
+    <td class="text-right"><a href="results_umass_2018">Team Results</a></td>
   </tr>
    <tr>
     <td><a href="results_rpi_2018">RPI Dancesport Competition 2018</a></td>
