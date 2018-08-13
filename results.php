@@ -7,28 +7,28 @@
   <thead>
     <th colspan="2"><h3>2017-2018</h3></th>
   </thead>
-    <td>Tufts Ballroom Competition 2017</td>
-    <td class="text-right"><a href="http://results.o2cm.com/event3.asp?event=tub17">Team Results</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=tub17">Tufts Ballroom Competition 2017</a></td>
+    <td class="text-right"><a href="results_tufts_2017">Team Results</a></td>
   </tr>
   <tr>
-    <td>Husky Classic 2017 (UConn)</td>
-    <td class="text-right"><a href="http://results.o2cm.com/event3.asp?event=ucb17">Team Results</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=ucb17">Husky Classic 2017 (UConn)</a></td>
+    <td class="text-right"><a href="results_uconn_2017">Team Results</a></td>
   </tr>
   <tr>
-    <td>Yale Ballroom Competition 2017</td>
-    <td class="text-right"><a href="http://results.o2cm.com/event3.asp?event=ybt17">Team Results</a></td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=ybt17">Yale Ballroom Competition 2017</a></td>
+    <td class="text-right"><a href="results_yale_2017">Team Results</a></td>
   </tr> 
   <tr>
-    <td>Binghamton Ballroom Dance Revolution 2018</td>
-    <td class="text-right">Team Results</td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=buc18">Binghamton Ballroom Dance Revolution 2018</a></td>
+    <td class="text-right"><a href="results_bing_2018">Team Results</a></td>
   </tr>
   <tr>
-    <td>Minuteman Dancesport Classic 2018</td>
-    <td class="text-right">Team Results</td>
+    <td><a href="http://results.o2cm.com/event3.asp?event=mds18">Minuteman Dancesport Classic 2018</a></td>
+    <td class="text-right"><a href="">Team Results</a></td>
   </tr>
    <tr>
-    <td>RPI Dancesport Competition 2018</td>
-    <td class="text-right">Team Results</td>
+    <td><a href="results_rpi_2018">RPI Dancesport Competition 2018</a></td>
+    <td class="text-right"><a href="">Team Results</a></td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </thead>
   <tr>
     <td><a href="http://results.o2cm.com/event3.asp?event=rub17">Rutgers DanceSport Competition 2017</a></td>
-    <td class="text-right">Team Results</td>
+    <td class="text-right"><a href="results_rutgers_2017">Team Results</a></td>
   </tr>
   <tr>
     <td><a href="http://results.o2cm.com/event3.asp?event=ric17">Rhode Island College Ballroom Dance Competition 2017</a></td>

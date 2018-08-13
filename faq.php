@@ -33,7 +33,7 @@
 <br />
 
 <h3>I am not a student or affiliated with RPI. Can I still join?</h3>
-<p>Of course!  Our lessons and practices are open to everyone.  We draw a fair number of non-RPI people every semester.</p>
+<p>Of course!  Our lessons and practices are open to everyone.  We draw a fair number of non-RPI people every semester. You must be 18 or older to join if you are not an RPI student.</p>
 <br />
 
 <h3>Where and how do I sign up?</h3>
