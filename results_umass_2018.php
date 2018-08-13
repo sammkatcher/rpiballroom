@@ -1,4 +1,4 @@
-<h1 class="title">Binghamton Ballroom Dance Revolution 2018</h1>
+<h1 class="title">Minuteman Dancesport Classic 2018</h1>
 
 <p>
   <a href="results">Back to Results Page</a>

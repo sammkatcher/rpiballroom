@@ -28,7 +28,7 @@
   </tr>
    <tr>
     <td><a href="results_rpi_2018">RPI Dancesport Competition 2018</a></td>
-    <td class="text-right"><a href="">Team Results</a></td>
+    <td class="text-right"><a href="results_rpi_2018_team">Team Results</a></td>
   </tr>
 </table>
 
