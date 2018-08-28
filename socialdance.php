@@ -15,7 +15,7 @@
 <p> The social dances this semester will be on:</p>
 <ul><strong>
   <li> September 22nd - Disco Party with Hustle Lesson</li>
-  <li> November 3rd - Annual Masquerave with Tango Lesson </li>
+  <li> November 3rd - Halloween Masquerave with Tango Lesson </li>
   <li> December 1st - Holiday Party with Rumba Lesson </li>
 </strong></ul>
 
