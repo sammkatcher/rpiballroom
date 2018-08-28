@@ -12,7 +12,7 @@
 <p>The Ballroom Club hosts social dances roughly once a month during the fall and spring semesters. Posters will be put up around campus the week before each dance, so wach for those. The best way to keep up with new dances is to <a href= "https://www.facebook.com/RPIBallroom/">follow the club on Facebook </a>, as all events are posted there. You will even find a way to purchase discounted tickets! </p>
 <p>The dances are usually set on Fridays at 7 PM, in the Academy Hall Auditorium on the 3rd floor. Admission is $5 at the door, $2 if signed up early, and FREE for all members of the ballroom club. However, up to date pricing, location, and time will be on all posters and on Facebook.</p>
 
-<p> The <strong> social dances this semester will be on: </strong></p>
+<p> The social dances this semester will be on:</p>
 <ul><strong>
   <li> September 22nd - Disco Party with Hustle Lesson</li>
   <li> November 3rd - Annual Masquerave with Tango Lesson </li>
