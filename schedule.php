@@ -1,14 +1,14 @@
 <?php//include variables for the siterequire_once('VARS.php');// if this page wasn't included from index.php, redirect to 404if(!checkinclude($INCLUDED)) {    header("location:".$PAGE_PATH."404");     die();}?>
 <h1 class="text-center">Class Schedule</h1>
 <div class="row">
-  <!-- ARGENTINE TANGO -->
+  <!-- OPEN PRACTICES -->
   <div class="col-sm-6 text-center">
     <h2>Open Practice (All Groups)</h2>
     <table class="center-table text-center">
       <tr>
 	<td>
 	  <dl>
-	    <dt>Monday (Studio)</dt>
+	    <dt>Monday (Mueller Center Rooms 1 and 2)</dt>
 	    <dd>Practice: 5:30-7:30pm</dd>
 	  </dl>
 	  <dl>
@@ -51,11 +51,11 @@
       <tr>
 	<td>
 	  <dl>
-	    <dt>Tuesday (Studio)</dt>
+	    <dt>Tuesday (87 Gym)</dt>
 	    <dd>Advanced: 7:00-8:00pm</dd>
 	  </dl>
 	  <dl>
-	    <dt>Thursday (Studio)</dt>
+	    <dt>Thursday (87 Gym)</dt>
 	    <dd>Beginner: 6:00-7:00pm</dd>
 	    <dd>Intermediate: 7:00-8:00pm</dd>
 	  </dl>
@@ -70,17 +70,19 @@
       <tr>
 	<td>
 	  <dl>
-	    <dt>Lessons (Studio)</dt>
+	    <dt>Lessons (TBA)</dt>
 	    <dd>Sun: 3:00-5:00pm</dd>
+
+	    <dt>Lessons (87 Gym)</dt>
 	    <dd>Tues: 8:00-9:00pm</dd>
 	    <dd>Thurs: 8:15-9:30pm</dd>
 	  </dl>
 	  <dl>
 	    <dt>Open Practices</dt>
-	    <dd>Mon: 5:30-8:00pm (Studio)</dd>
-	    <dd>Wed: 6:00-8:00pm (Studio)</dd>
-	    <dd>Fri: 5:00-7:00pm (Studio)</dd>
-	    <dd>Sat: 1:00-5:00pm (Studio)</dd>
+	    <dd>Mon: 5:30-8:00pm (Mueller Center 1&amp;2)</dd>
+	    <dd>Wed: 6:00-8:00pm (TBA)</dd>
+	    <dd>Fri: 5:00-7:00pm (TBA)</dd>
+	    <dd>Sat: 1:00-5:00pm (TBA)</dd>
 	  </dl>
 	</td>
       </tr>
