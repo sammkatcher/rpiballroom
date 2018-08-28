@@ -16,7 +16,7 @@
 <ul><strong>
   <li> September 22nd - Disco Party with Hustle Lesson</li>
   <li> November 3rd - Annual Masquerave with Tango Lesson </li>
-  <li> December 4th - Holiday Party with Rumba Lesson </li>
+  <li> December 1st - Holiday Party with Rumba Lesson </li>
 </strong></ul>
 
 <p>None of these events are club specific so please invite your friends! </p>
