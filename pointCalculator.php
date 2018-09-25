@@ -61,6 +61,13 @@
   }
 
   function getPersonO2CMResults( $firstName, $lastName ) {
+	if( ini_get('allow_url_fopen') ) {
+		die('allow_url_fopen is enabled. file_get_contents should work well');
+	} else {
+		die('allow_url_fopen is disabled. file_get_contents would not work');
+	}
+	allow_url_fopen = ON;
+	allow_url_include = ON;
     $url = getPersonO2cmUrl($firstName, $lastName);
     $urlHTML = file_get_contents($url);
     return str_get_html($urlHTML);
