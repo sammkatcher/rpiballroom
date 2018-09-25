@@ -28,11 +28,6 @@
       </a>
   </div> -->
   <div class="btn-group">
-      <a class="btn btn-default" href="socialdance">
-	<img class="img-rounded img-responsive" src="site_images/social_dances.jpg" />
-	</a>
-  </div>
-  <div class="btn-group">
       <a class="btn btn-default" href="swing">
 	<img class="img-rounded img-responsive" src="site_images/lindy_hop.jpg" />
       </a>
@@ -42,7 +37,12 @@
 	<img class="img-rounded img-responsive" src="site_images/ballroom_latin.jpg" />
       </a>
   </div>
-</div>
+  <div class="btn-group">
+      <a class="btn btn-default" href="socialdance">
+	<img class="img-rounded img-responsive" src="site_images/social_dances.jpg" />
+	</a>
+  </div>
+  </div>
 
 <p><b><h3>Check out our <a href="schedule">Class Schedule</a> for lesson and practice times!</h3></b></p>
 
