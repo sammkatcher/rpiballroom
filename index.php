@@ -45,12 +45,12 @@
 	    <!-- ABOUT -->
             <li class="dropdown">
 	      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-		<li><a href="/ballroom-latin">Ballroom & Latin</a></li>
-		<li><a href="/tango"><s>Argentine Tango</s></a></li>
-		<li><a href="/swing">Lindy Hop Swing</a></li>
-    <li><a href="/salsa">Salsa</a></li>
-    <li><a href="/socialdance">Social Dancing</a></li>
+		<ul class="dropdown-menu" role="menu">
+			<li><a href="/ballroom-latin">Ballroom & Latin</a></li>
+			<li><a href="/swing">Lindy Hop Swing</a></li>
+			<li><a href="/salsa">Salsa</a></li>
+			<li><a href="/socialdance">Social Dancing</a></li>
+			<li><a href="/tango"><s>Argentine Tango</s></a></li>
 		<li class="divider"></li>
 		<li><a href="/officers">Officers</a></li>
 		<!-- <li><a href="#">History</a></li> -->

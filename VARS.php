@@ -80,12 +80,12 @@ $team_tues_lesson = "7:00-9:00pm";
 $team_thurs_lesson = "9:00-10:00pm";
 $team_sun_lesson = "3:00-6:00pm";
 
-$start_of_lesson_message = "<p>The <b>Spring 2018 Lessons</b> 
+$start_of_lesson_message = "<p>The <b>Fall 2018 Lessons</b> 
 	are right around the corner! As the Intro Dance
-	 is Friday, January 19th, the first week of lessons will 
-	 begin on January 22nd! The first Beginner Ballroom/ Latin 
-	 Club lesson will be on January 25th at 6pm. If you are 
-	 interested in Team, lessons start Tuesday, January 23rd!
+	 is Friday, August 31st, the first week of lessons will 
+	 begin on September 11th! The first Beginner Ballroom/ Latin 
+	 Club lesson will be on September 13th at 6pm. If you are 
+	 interested in Team, lessons start Tuesday, September 11th!
 	  As always, the first lesson of each style is free!</p>
 
 	  <p>Practices will begin the first week of classes.</p>
@@ -145,8 +145,8 @@ $mentor_date_foxtrot = "Tuesday/Thursday 9PM";
 $mentor_date_waltz = "Tuesday/Thursday 9PM";
 $mentor_date_tango = "Tuesday/Thursday 9PM";
 $mentor_date_standard = "Saturday 1PM";
-$mentor_date_rhythm = "Saturday 3PM";
-$mentor_date_smooth = "Saturday 3PM";
+$mentor_date_rhythm = "By Appointment";
+$mentor_date_smooth = "By Appointment";
 // End team mentor dates
 
 // Begin prices

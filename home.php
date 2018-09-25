@@ -19,22 +19,27 @@
 <div class="btn-group btn-group-justified">
   <div class="btn-group">
       <a class="btn btn-default" href="team">
-	<img class="img-rounded img-responsive" src="site_images/ballroom_team.png" />
+	<img class="img-rounded img-responsive" src="site_images/ballroom_team.jpg" />
       </a>
   </div>
-  <div class="btn-group">
+<!--  <div class="btn-group">
       <a class="btn btn-default" href="tango">
 	<img class="img-rounded img-responsive" src="site_images/argentine_tango.png" />
       </a>
+  </div> -->
+  <div class="btn-group">
+      <a class="btn btn-default" href="socialdance">
+	<img class="img-rounded img-responsive" src="site_images/social_dances.jpg" />
+	</a>
   </div>
   <div class="btn-group">
       <a class="btn btn-default" href="swing">
-	<img class="img-rounded img-responsive" src="site_images/lindy_hop_swing.png" />
+	<img class="img-rounded img-responsive" src="site_images/lindy_hop.jpg" />
       </a>
   </div>
   <div class="btn-group">
       <a class="btn btn-default" href="ballroom-latin">
-	<img class="img-rounded img-responsive" src="site_images/ballroom_latin.png" />
+	<img class="img-rounded img-responsive" src="site_images/ballroom_latin.jpg" />
       </a>
   </div>
 </div>
