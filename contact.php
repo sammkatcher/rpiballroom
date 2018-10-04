@@ -12,9 +12,10 @@
    }
    ?>
 
+<h1> Contact Us </h1>
 <h3>Looking for lesson <a href="/schedule">schedule</a>? <a href="/pricing">Pricing information</a>? Check out our <a href="/faq">FAQ page</a>!</h3>
 
-<form role="form" accept-charset="UTF-8" method="post" action="send_form_email" id="contact-mail-page">
+<!-- <form role="form" accept-charset="UTF-8" method="post" action="send_form_email" id="contact-mail-page">
   <div class="form-group">
     <label class="control-label" for="edit-name">Name:</label>
     <input name="name" type="text" class="form-control" id="email" placeholder="Your name">
@@ -53,3 +54,52 @@
     <button type="submit" class="btn btn-default btn-ballroom">Send e-mail</button>
   </div>
 </form>
+-->
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Branch</th>
+      <th>Contact Name</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>General</strong></td>
+      <td><?php echo($president)?></td>
+      <td><?php echo($president_email)?></td>
+    </tr>
+
+    <tr>
+      <td><strong>Showcase Request</strong></td>
+      <td><?php echo($president)?></td>
+      <td><?php echo($president_email)?></td>
+    </tr>
+    <tr>
+      <td><strong>Ballroom Competition</strong></td>
+      <td><?php echo($comp_coord)?></td>
+      <td><?php echo($comp_coord_email)?></td>
+    </tr>
+    <tr>
+      <td><strong>Ballroom/Latin Contact</strong></td>
+      <td><?php echo($latin_vp)?></td>
+      <td><?php echo($latin_vp_email)?></td>
+    </tr>
+    <tr>
+      <td><strong>Lindy Contact</strong></td>
+      <td><?php echo($lindy_vp)?></td>
+      <td><?php echo($lindy_vp_email)?></td>
+    </tr>
+    <tr>
+      <td><strong>Team Contact</strong></td>
+      <td><?php echo($captain1)?></td>
+      <td><?php echo($captain1_email)?></td>
+    </tr>
+    <tr>
+      <td><strong>Social Dance Contact</strong></td>
+      <td><?php echo($social_chair)?></td>
+      <td><?php echo($social_chair_email)?></td>
+    </tr>
+  </tbody>
+</table>

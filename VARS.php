@@ -29,6 +29,7 @@ $NUM_NEWSPAGE_NEWS_STORIES = 20;
 // End News Stories Settings
 
 // Begin Contact for Emails// correspond to options on contact form, indicate which email address to send contact request to
+//Unused since 2018
 $EMAILS = array(1 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
 				2 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
 				3 => 'henslc@rpi.edu', //'ballroom-webmaster@union.lists.rpi.edu',
@@ -40,6 +41,7 @@ $EMAILS = array(1 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
 			);
 
 // subjects for emails sent via contact form to allow sorting
+//Unused since 2018
 $EMAIL_SUBJECT = array(1 => '[General Ballroom]',
 				2 => '[Showcase Request]',		
 				3 => '[Website Feedback]',
@@ -110,6 +112,20 @@ $comp_coordinator = "Zachary";
 $social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20, Allison Daboval, '22";
 $fundraising = "Vacant";
 // End eboard members
+//Begin eboard email addresses
+$president_email = "henslc@rpi.edu";
+//$tango_vp_email = "";
+$lindy_vp_email = "beninis@rpi.edu";
+$latin_vp_email = "kanes3@rpi.edu";
+$captain1_email = "schnea3@rpi.edu";
+$captain2_email = "mcraes@rpi.edu";
+//$tango_tres_email = "";
+$comp_coord_email = "tayloz2@rpi.edu";
+$social_chair_email = "rpi-social-dance@googlegroups.com";
+//$fundraising_email = "Vacant";
+//End eboard email addresses
+
+
 
 // Begin team mentors
 $mentor_rumba = "";
