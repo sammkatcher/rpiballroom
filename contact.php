@@ -73,7 +73,7 @@
     <tr>
       <td><strong>Showcase Request</strong></td>
       <td><?php echo($president)?></td>
-      <td><?php echo("test")?></td>
+      <td><?php echo($president_email)?></td>
     </tr>
     <tr>
       <td><strong>Ballroom Competition</strong></td>
