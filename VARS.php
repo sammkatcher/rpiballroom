@@ -107,9 +107,10 @@ $lindy_tres = "Rachel Oehlkers, '21";
 $latin_tres = "Allison Daboval, '22";
 $team_tres = "Maria Ruiz Cardenas, '21";
 $marketing = "Troy Mundschenk, '21";
-$comp_coord = "Zachary Taylor, '21'";
+$comp_coord = "Zachary Taylor, '21";
 $comp_coordinator = "Zachary";
 $social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20, Allison Daboval, '22";
+$soc_chair = "Daniel Lubitz, '19"
 $fundraising = "Vacant";
 // End eboard members
 //Begin eboard email addresses

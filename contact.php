@@ -98,7 +98,7 @@
     </tr>
     <tr>
       <td><strong>Social Dance Contact</strong></td>
-      <td><?php echo($social_chair)?></td>
+      <td><?php echo($soc_chair)?></td>
       <td><?php echo($social_chair_email)?></td>
     </tr>
   </tbody>
