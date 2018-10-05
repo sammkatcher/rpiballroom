@@ -113,6 +113,7 @@ $social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20, Allis
 $soc_chair = "Daniel Lubitz, '19"
 $fundraising = "Vacant";
 // End eboard members
+
 //Begin eboard email addresses
 $president_email = "henslc@rpi.edu";
 //$tango_vp_email = "";
@@ -123,7 +124,7 @@ $captain2_email = "mcraes@rpi.edu";
 //$tango_tres_email = "";
 $comp_coord_email = "tayloz2@rpi.edu";
 $social_chair_email = "rpi-social-dance@googlegroups.com";
-//$fundraising_email = "Vacant";
+//$fundraising_email = "";
 //End eboard email addresses
 
 
