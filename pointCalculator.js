@@ -56,7 +56,7 @@ function createTable(data) {
 	    }
 	}
     }
-    
+
     var tableString = "<table class='table'>";
     tableString += "<thead><tr>";
     tableString += "<th>Totals</th><th></th><th>Bronze</th><th>Silver</th><th>Gold</th>";

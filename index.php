@@ -47,12 +47,13 @@
 	      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
 		<ul class="dropdown-menu" role="menu">
 			<li><a href="/ballroom-latin">Ballroom & Latin</a></li>
-			<li><a href="/swing">Lindy Hop Swing</a></li>
 			<li><a href="/salsa">Salsa</a></li>
 			<li><a href="/socialdance">Social Dancing</a></li>
-			<li><a href="/tango"><s>Argentine Tango</s></a></li>
+			<!--<li><a href="/swing"><s>Lindy Hop Swing</s></a></li>  REMOVED AS OF 9/9/2019-->
+			<!--<li><a href="/tango"><s>Argentine Tango</s></a></li>  REMOVED AS OF 9/9/2019-->
 		<li class="divider"></li>
 		<li><a href="/officers">Officers</a></li>
+		<li><a href="/contact">Contact</a></li>
 		<!-- <li><a href="#">History</a></li> -->
 		<li class="divider"></li>
 		<li><a href="/donate">Donate</a></li>
@@ -70,7 +71,7 @@
 		<li class="divider"></li>
 		<li><a href="/results">Past Competitions and Results</a></li>
 		<li><a href="/syllabus_steps">Team Syllabus Steps</a></li>
-		<li><a href="/mentors">Team Mentors</a></li>
+		<!--<li><a href="/mentors">Team Mentors</a></li>-->  <!-- Edited out 9/5/19 until mentoring is decided. ALso check one other page, and also team page and also schedule -->
 		<li><a href="/team_policies">Team Policies</a></li>
 	      </ul>
 	    </li>

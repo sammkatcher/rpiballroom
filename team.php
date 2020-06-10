@@ -9,8 +9,8 @@
 <p>Of course, members do not have to attend every practice or stay for entire durations. Most do not due to personal time constraints; however, as with any skill, advancement only happens with time and dedication.</p>
 <h3>Do I Need a Partner?</h3>
 <p>Nope!  We do not expect new members, regardless of skill level, to have a partner.  It is common for new members to dance with multiple people before settling on a partner.  While we offer guidance for new members, especially for the first few competitions, many partnerships naturally occur after some time.</p>
-<h3>Need Extra Assistance?</h3>
-<p>Check out our mentors' <a href="mentors">office hours!</a></p>
+<!--<h3>Need Extra Assistance?</h3>
+<p>Check out our mentors' <a href="mentors">office hours!</a></p>-->
 <h3>Team Specific Calendar</h3>
 
 <p>

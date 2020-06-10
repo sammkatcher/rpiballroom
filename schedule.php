@@ -1,29 +1,125 @@
 <?php//include variables for the siterequire_once('VARS.php');// if this page wasn't included from index.php, redirect to 404if(!checkinclude($INCLUDED)) {    header("location:".$PAGE_PATH."404");     die();}?>
 <h1 class="text-center">Class Schedule</h1>
-<div class="row">
-  <!-- OPEN PRACTICES -->
+<img class="img-responsive" style="float:right;padding:5px" src="/site_images/ballroom_schedule_calendar.jpg"/>
+  <!-- REPLACED SCHEDULE TABLE WITH PICTURE 9/10/2019
+<div class="row">      9/10/2019-->
+  <!-- TEAM -->
+  <!-- 9/10/2019
   <div class="col-sm-6 text-center">
-    <h2>Open Practice (All Groups)</h2>
+    <h2>Ballroom Team</h2>
     <table class="center-table text-center">
       <tr>
 	<td>
 	  <dl>
-	    <dt>Monday (Mueller Center Rooms 1 and 2)</dt>
-	    <dd>Practice: 5:30-7:30pm</dd>
+	    <dt>Sunday (Studio)</dt>
+	    <dd>Newcomer: 2:00-3:00pm</dd>
+	    <dd>All Team: 3:00-4:00pm</dd>
+	    <dd>Bronze: 4:00-5:00pm</dd>
 	  </dl>
 	  <dl>
-	    <dt>Wednesday (Studio)</dt>
-	    <dd>Practice: 12:00-2:00pm</dd>
+	    <dt>Tuesday (Studio)</dt>
+	    <dd>Bronze Lessons: 6:00-7:00pm</dd>
+	    <dd>Silver Lessons: 8:00-9:00pm</dd>
 	  </dl>
 	  <dl>
 	    <dt>Thursday (Studio)</dt>
-	    <dd>Practice: 2:00-4:00pm</dd>
+	    <dd>All Team: 8:00-9:00pm</dd>
+	  </dl>
+	             9/10/2019-->
+	  <!--    OPEN PRACTICES COMMENTED OUT FOR NOW          
+	  <dl>
+	    <dt>Open Practices</dt>
+	    <dd>Mon: 5:30-8:00pm (Mueller Center 1&amp;2)</dd>
+	    <dd>Wed: 6:00-8:00pm (TBA)</dd>
+	    <dd>Fri: 5:00-7:00pm (TBA)</dd>
+	    <dd>Sat: 1:00-5:00pm (TBA)</dd>
+	  </dl>
+	  --> <!-- 9/10/2019
+	</td>
+      </tr>
+    </table>
+  </div>     9/10/2019 -->
+  <!-- BALLROOM LATIN -->           <!-- 9/10/2019
+  <div class="col-sm-6 text-center">
+    <h2>Ballroom/Latin</h2>
+    <table class="center-table text-center">
+      <tr>
+	<td>
+	  <dl>
+	    <dt>Tuesday (Studio)</dt>
+	    <dd>Advanced: 7:00-8:00pm</dd>
+	  </dl>
+	  <dl>
+	    <dt>Thursday (Studio)</dt>
+	    <dd>Beginner: 6:00-7:00pm</dd>
+	    <dd>Intermediate: 7:00-8:00pm</dd>
 	  </dl>
 	</td>
       </tr>
     </table>
   </div>
+</div>
+<div class="row">              9/10/2019 -->
+  <!-- OPEN PRACTICES TEAM -->      <!--9/10/2019
+  <div class="col-sm-6 text-center">
+    <h2>Open Practice (Team)</h2>
+    <table class="center-table text-center">
+      <tr>
+	<td>
+	  <dl>
+	    <dt>Sunday (Studio)</dt>
+	    <dd>Practice: 1:00-2:00pm</dd>
+	  </dl>
+	  <dl>
+	    <dt>Monday, Wednesday, Friday (Studio)</dt>
+	    <dd>Practice: 4:00-8:00pm</dd>
+	  </dl>
+	  <dl>
+	    <dt>Saturday (Studio)</dt>
+	    <dd>Practice: 1:00-5:00pm</dd>
+	  </dl>
+	</td>
+      </tr>
+    </table>
+  </div>              9/10/2019-->
+  <!-- OPEN PRACTICES CLUB -->        <!--
+  <div class="col-sm-6 text-center">
+    <h2>Open Practice (Club)</h2>
+    <table class="center-table text-center">
+      <tr>
+	<td>
+	  <dl>
+	    <dt>Monday (Studio)</dt>
+	    <dd>Practice: 6:00-8:00pm</dd>
+	  </dl>
+	</td>
+      </tr>
+    </table>
+  </div>               9/10/2019-->
+  <!-- Mentoring -->
+  <!-- 9/5/19 Mentoring commented out until it's decided. Connected to the navbar (in index)
+  <div class="col-sm-6 text-center">
+    <h2>Mentoring</h2>
+    <table class="center-table text-center">
+      <tr>
+	<td>
+	  <dl>
+	    <dt>Wednesday (Studio)</dt>
+	    <dd>Smooth, Rhythm: 6:30-7:30pm</dd>
+	  </dl>
+	  <dl>
+	    <dt>Saturday (Studio)</dt>    
+	    <dd>Standard: 1:00-3:00pm</dd>
+	  </dl>
+	</td>
+      </tr>
+    </table>
+  </div>
+  -->
+<!-- </div>              9/10/2019-->
+
   <!-- LINDY HOP -->
+  <!-- LINDY HOP DISCONTINUED
   <div class="col-sm-6 text-center">
     <h2>Lindy Hop</h2>
     <table class="center-table text-center">
@@ -43,57 +139,11 @@
     </table>
   </div>
 </div>
-<div class="row">
-  <!-- BALLROOM LATIN -->
-  <div class="col-sm-6 text-center">
-    <h2>Ballroom/Latin</h2>
-    <table class="center-table text-center">
-      <tr>
-	<td>
-	  <dl>
-	    <dt>Tuesday (87 Gym)</dt>
-	    <dd>Advanced: 7:00-8:00pm</dd>
-	  </dl>
-	  <dl>
-	    <dt>Thursday (87 Gym)</dt>
-	    <dd>Beginner: 6:00-7:00pm</dd>
-	    <dd>Intermediate: 7:00-8:00pm</dd>
-	  </dl>
-	</td>
-      </tr>
-    </table>
-  </div>
-  <!-- TEAM -->
-  <div class="col-sm-6 text-center">
-    <h2>Ballroom Team</h2>
-    <table class="center-table text-center">
-      <tr>
-	<td>
-	  <dl>
-	    <dt>Lessons (TBA)</dt>
-	    <dd>Sun: 3:00-5:00pm</dd>
-
-	    <dt>Lessons (87 Gym)</dt>
-	    <dd>Tues: 8:00-9:00pm</dd>
-	    <dd>Thurs: 8:15-9:30pm</dd>
-	  </dl>
-	  <dl>
-	    <dt>Open Practices</dt>
-	    <dd>Mon: 5:30-8:00pm (Mueller Center 1&amp;2)</dd>
-	    <dd>Wed: 6:00-8:00pm (TBA)</dd>
-	    <dd>Fri: 5:00-7:00pm (TBA)</dd>
-	    <dd>Sat: 1:00-5:00pm (TBA)</dd>
-	  </dl>
-	</td>
-      </tr>
-    </table>
-  </div>
-</div>
-
+  -->
 <h2>Location</h2>
-<p>All Ballroom/Latin, Lindy Hop, and Team lessons are held in Academy Hall at RPI, located at the intersection of 15th Street and College Avenue, across from Moe’s. A parking lot is available behind Academy Hall, accessible on College Avenue.</p>
+<p>All Ballroom/Latin and Team lessons are held in Academy Hall at RPI, located at the intersection of 15th Street and College Avenue, across from Moe’s. A parking lot is available behind Academy Hall, accessible on College Avenue.</p>
 <p>Events marked with (Studio) are in the Dance Studio, formerly known as the Student Activities Room (SAR), which is on the first floor of academy hall (down one flight of stairs). </p>
-<p>Events marked with (AUD) are in the Auditorium, which is on the third floor of academy hall (up one flight of stairs). </p>
+
 
 <h2>When Do Lessons Start?</h2>
 <?php echo($start_of_lesson_message)?>
@@ -103,8 +153,8 @@
   Check out our <a href="pricing">pricing</a> page!
 </p>
 
-<h2>Need Extra Help?</h2>
-<p>Our mentors can help you! Check out their <a href="mentors">schedule!</a></p>
+<!--<h2>Need Extra Help?</h2>
+<p>Our mentors can help you! Check out their <a href="mentors">schedule!</a></p> COMMENTED OUT AS OF 9/9/19-->
 
 <h2>Academy Hall</h2>
 <div class="google-map clearfix">

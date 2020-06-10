@@ -6,7 +6,7 @@
 <p> Every semester after Ballroom/Latin and Lindy Hop lessons have ended, we offer a number of lessons dedicated to leraning more social salsa dancing. </p>
 <p> There are two different tracks, the beginner into intermediate salsa and the intermediate into advanced Salsa.</p>
 <p> Each workshop in the track will build on the last one! However, feel free to jump into any lesson! </p>
-<p><strong>More information will be posted mid-semester regarding the salsa workshops for Fall 2018. </strong></p>
+<p><strong>More information will be posted mid-semester regarding the salsa workshops for Spring 2020. </strong></p>
 <!--
 <p> The <strong> beginner track will be at 7 pm</strong> and the <strong>advanced will be at 8 pm</strong> on: </p>
 <ul><strong>

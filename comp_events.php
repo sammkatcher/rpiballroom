@@ -40,10 +40,10 @@
     </tr>
     <tr>
       <td><strong>Bronze</strong></td>
-      <td>W, Q, T, F</td>
-      <td>W, T, F</td>
-      <td>C, R, Sw</td>
-      <td>C, R, Sa, J</td>
+      <td>W, T, F, Q</td>
+      <td>W, T, F, V</td>
+      <td>C, R, Sw, M</td>
+      <td>C, Sa, R, J</td>
     </tr>
     <tr>
       <td><strong>Open Bronze</strong></td>
@@ -55,7 +55,7 @@
     <tr>
       <td><strong>Silver</strong></td>
       <td>W/Q, T/F</td>
-      <td>W/T, F, V</td>
+      <td>W/T, F/V</td>
       <td>C/R, Sw/M</td>
       <td>C/R, Sa/J</td>
     </tr>
@@ -75,10 +75,10 @@
     </tr>
     <tr>
       <td><strong>Pre-Champ/Open</strong></td>
-      <td>W/T/F/Q/V</td>
+      <td>W/T/V/F/Q</td>
       <td>W/T/F/V</td>
       <td>C/R/Sw/B/M</td>
-      <td>C/R/Sa/J/P</td>
+      <td>C/Sa/R/P/J</td>
     </tr>
   </tbody>
 </table>

@@ -4,23 +4,21 @@
   document.getElementById("comp_nav_home").className = "active";
 </script>
 
-<img src="/site_images/2018RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>
+<!--
+<img src="/site_images/2019RPI_Comp.png" class="img-responsive center-block" style="max-height:500px;"/>                  <!-- REMOVED 8/13/2019 UNTIL FLYER IS UPDATED -->
   <p></p>
-  <h3>The RPI Ballroom team is happy to announce the <em>2018 RPI Dancesport Competition!</em><br /></h3>
+  <h3>The RPI Ballroom team is happy to announce the <em>2020 RPI Dancesport Competition!</em><br /></h3>
   <h3 class="text-center"> 8am - 5pm </h3>  
   <div class= "text-center">
-    <h3 class= "text-center"><font color="red"><strong>Sunday, April 8th, 2018</strong></font><br /></h3>
-    <a class="btn btn-default btn-ballroom disable" target="_blank" href="http://rpitv.org/productions/1327">
-      2018 Footage Available Here</a>
+    <h3 class= "text-center"><font color="red"><strong>Saturday, February 29th, 2020</strong></font><br /></h3>
   </div>
 
-  <br/>
   <div class="container text-center">
     <div class="row">
 
       <div class="col-sm-4">
-        <h3>2018 Registration Closed</h3>
-        <a class="btn btn-default btn-ballroom disabled" target="_blank" href="http://register.o2cm.com/?event=rpi">Register Now</a>
+        <h3>Registration</h3>
+        <a class="btn btn-default btn-ballroom" target="_blank" href="https://register.o2cm.com/?event=rpi">Register Now</a>
       </div>
     
       <div class="col-sm-4">
@@ -30,15 +28,27 @@
 
       <div class="col-sm-4">
         <h3>Reserve Spectator Tickets</h3>
-        <a class="btn btn-default btn-ballroom disabled" target="_blank" href="https://goo.gl/forms/TzczdGAAp5y9u1wj2">Reserve Tickets</a>
+        <a class="btn btn-default btn-ballroom" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSddGKIoBSyq_sc51MZ0YqbQEs26Ut8GFWX0IdTHtJF-_Ow41w/viewform">Reserve Tickets</a>
       </div>
     </div>
   </div>
+
+  <!-- REMOVED 12/3/2019 AND ADDED LINKS IN 2019 AREA BELOW
+  <div class= "text-center">
+    <a class="btn btn-default btn-ballroom disable" target="_blank" href="https://www.youtube.com/watch?v=hxJFFgmgEbU">
+      2019 Smooth/Standard Footage</a>
+    <a class="btn btn-default btn-ballroom disable" target="_blank" href="https://www.youtube.com/watch?v=y4dwYgG-f5E">
+      2019 Rhythm/Latin Footage</a>
+  </div>
+  -->
+
   
   <br />
   <hr />
   <br />
   
+  <h4> 2019 RPI DanceSport Competition Results </h4>
+  <p> Hey! Thank you everyone who attended our competition! Hope you all had a great time despite venue changes and other difficulties. The competition footage is here: <a href=https://www.youtube.com/watch?v=hxJFFgmgEbU">Smooth/Standard</a>, <a href="https://www.youtube.com/watch?v=y4dwYgG-f5E">Rhythm/Latin</a>. Our results are <a href="http://results.o2cm.com/event3.asp?event=rpi19">here</a>!</p>
   <h4> 2018 RPI DanceSport Competition Results </h4>
   <p> Thank you to everyone who attended our competition! It was a great day of competitive dance, and a demo by Florin &amp; Natalia! Results are available <a href="/results_rpi_2018">here</a>.</p>
   <p>These were tallied manually from the judges score sheets by team members, instead.   We apologize in advance for any mistakes in final placements - we aren't professional scrutineers, but we did our best!  If you notice discrepancies please contact <a href="mailto:rpicompcoordinator@gmail.com"><?php echo($comp_coordinator)?></a> and we'll make the appropriate changes.</p>

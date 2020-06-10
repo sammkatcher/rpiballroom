@@ -1,4 +1,6 @@
 <h1 class="title">Lindy Hop</h1>
+<h2> NOTE: The Lindy Hop Track is no longer a branch of RPI Ballroom. </h2>
+<p> There will be no Lindy Hop lessons this semester.</p>
 
 <h3>What is the Lindy Hop track?</h3>
 <img class="img-responsive" style="float:right;padding:5px" width="400px" src="site_images/lindy.jpg" />

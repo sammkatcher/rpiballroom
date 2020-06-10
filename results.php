@@ -2,13 +2,59 @@
 
 <p>Here you will find links to officially registered results from the competitions we have attended, as well as those of couples on the Team. They are arranged by academic year.</p>
 
+<!-- 2018 - 2019 -->
+<table class="table">
+  <thead>
+    <th colspan="2"><h3>2018-2019</h3></th>
+  </thead>
+  <tr>
+    <td><a href="http://results.o2cm.com/event3.asp?event=ric19">RIC 2019</a></td>
+    <td class="text-right"><a href="results_ric_2019">Team Results</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://results.o2cm.com/event3.asp?event=rpi19">RPI 2019</a></td>
+    <td class="text-right"><a href="results_rpi_2019">Team Results</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://results.o2cm.com/event3.asp?event=hcb19">Holy Cross 2019</a></td>
+    <td class="text-right"><a href="results_holycross_2019">Team Results</a></td>
+  </tr> 
+  <tr>
+    <td><a href="http://results.o2cm.com/event3.asp?event=tub18">Tufts 2018</a></td>
+    <td class="text-right"><a href="results_tufts_2018">Team Results</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://results.o2cm.com/event3.asp?event=bbe18">Brown 2018</a></td>
+    <td class="text-right"><a href="results_brown_2018">Team Results</a></td>
+  </tr>
+   <tr>
+    <!-- <td><a href="results_rpi_2018">Princeton 2018</a></td>                   no records on o2cm -->
+    <td>Princeton 2018</td>
+    <td class="text-right"><a href="results_princeton_2018">Team Results</a></td>
+  </tr>
+</table>
+
+
 <!-- 2017 - 2018 -->
 <table class="table">
   <thead>
     <th colspan="2"><h3>2017-2018</h3></th>
   </thead>
+  <tr>
+    <td><a href="results_rpi_2018">RPI Dancesport Competition 2018</a></td>
+    <td class="text-right"><a href="results_rpi_2018_team">Team Results</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://results.o2cm.com/event3.asp?event=mds18">Minuteman Dancesport Classic 2018</a></td>
+    <td class="text-right"><a href="results_umass_2018">Team Results</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://results.o2cm.com/event3.asp?event=buc18">Binghamton Ballroom Dance Revolution 2018</a></td>
+    <td class="text-right"><a href="results_bing_2018">Team Results</a></td>
+  </tr>
+  <tr>
     <td><a href="http://results.o2cm.com/event3.asp?event=tub17">Tufts Ballroom Competition 2017</a></td>
-    <td class="text-right"><a href="results_tufts_2017">Team Results</a></td>
+    <td class="text-right"><a href="results_tufts_2018">Team Results</a></td>
   </tr>
   <tr>
     <td><a href="http://results.o2cm.com/event3.asp?event=ucb17">Husky Classic 2017 (UConn)</a></td>
@@ -18,18 +64,6 @@
     <td><a href="http://results.o2cm.com/event3.asp?event=ybt17">Yale Ballroom Competition 2017</a></td>
     <td class="text-right"><a href="results_yale_2017">Team Results</a></td>
   </tr> 
-  <tr>
-    <td><a href="http://results.o2cm.com/event3.asp?event=buc18">Binghamton Ballroom Dance Revolution 2018</a></td>
-    <td class="text-right"><a href="results_bing_2018">Team Results</a></td>
-  </tr>
-  <tr>
-    <td><a href="http://results.o2cm.com/event3.asp?event=mds18">Minuteman Dancesport Classic 2018</a></td>
-    <td class="text-right"><a href="results_umass_2018">Team Results</a></td>
-  </tr>
-   <tr>
-    <td><a href="results_rpi_2018">RPI Dancesport Competition 2018</a></td>
-    <td class="text-right"><a href="results_rpi_2018_team">Team Results</a></td>
-  </tr>
 </table>
 
 

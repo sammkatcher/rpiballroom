@@ -9,6 +9,7 @@
       <th>Mentor</th>
       <!--<th>Email</th>-->
       <th>Date Available</th>
+      <th>Location</th>
     </tr>
   </thead>
   <tbody>
@@ -16,12 +17,14 @@
       <td><strong>Rhythm</strong></td>
       <td><?php echo($mentor_rhythm)?></td>
       <td><?php echo($mentor_date_rhythm)?></td>
+      <td><?php echo($mentor_location_rhythm)?></td>
     </tr>
 
     <tr>
       <td><strong>Smooth</strong></td>
       <td><?php echo($mentor_smooth)?></td>
       <td><?php echo($mentor_date_smooth)?></td>
+      <td><?php echo($mentor_location_smooth)?></td>
     </tr>
     <!-- <tr>
       <td><strong>Rumba</strong></td>
@@ -69,6 +72,7 @@
       <td><strong>Standard</strong></td>
       <td><?php echo($mentor_standard)?></td>
       <td><?php echo($mentor_date_standard)?></td>
+	<td><?php echo($mentor_location_standard)?></td>
     </tr>
   </tbody>
 </table>

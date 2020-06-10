@@ -1,6 +1,9 @@
-<h1 class="title"><?php echo($semester[date("n")].' '.date("Y")); ?> Executive Committee</h1>
+<h1 class="title"><?php echo($semester[date("n")].' '.date("Y")); ?> Executive Committee</h1>     
 
-<p>Officers may be contacted through the <a href="/contact">contact form</a>.</p>
+<!-- Below is the name we used for summer -->
+<!--    <h1 class="title">2020 Executive Committee</h1>    -->
+
+<p>Officers may be contacted by <a href="/contact">email</a>.</p>
 
 <table id="officers" class="table table-condensed">
   <thead>
@@ -16,6 +19,12 @@
     </td>
     <td class="text-right"><em><?php echo($president)?></em></td>
   </tr>
+  <tr>
+    <td>
+      <h5>Secretary</h5>
+    </td>
+    <td class="text-right"><em><?php echo($secretary)?></em></td>
+  </tr>
   <!-- <tr>
     <td>
       <h5>VP, Argentine Tango</h5>
@@ -28,12 +37,12 @@
     </td>
     <td class="text-right"><em><?php echo($latin_vp)?></em></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <h5>VP, Lindy Hop</h5>
     </td>
     <td class="text-right"><em><?php echo($lindy_vp)?></em></td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <h5>Captain, Ballroom Team</h5>
@@ -58,12 +67,12 @@
     </td>
     <td class="text-right"><em><?php echo($latin_tres)?></em></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <h5>Treasurer, Lindy Hop</h5>
     </td>
     <td class="text-right"><em><?php echo($lindy_tres)?></em></td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <h5>Treasurer, Ballroom Team</h5>
@@ -75,6 +84,12 @@
       <h5>Marketing Chair</h5>
     </td>
     <td class="text-right"><em><?php echo($marketing)?></em></td>
+  </tr>
+  <tr>
+    <td>
+      <h5>Webmaster</h5>
+    </td>
+    <td class="text-right"><em><?php echo($webmaster)?></em></td>
   </tr>
   <tr>
     <td>

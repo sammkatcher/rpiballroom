@@ -5,29 +5,41 @@
 </script>
 
 <div class="text-center">
+
+  <!--2020 RPI COMP JUDGES PANEL.-->
+
   <h3>Chairman of Judges</h3>
   Wendi Davies<br />
 
   <h3>Judges</h3>
-  Patrizia Contenta<br />
   Bobbi Davies<br />
-  Paige Hammond<br />
-  David Hintz<br />
-  Jules Julian<br />
-  Pamela Licht<br />
-  <!-- Kevin McHugh<br />-->
-  <!--  Ricardo Sopin<br />-->
-  <!--  Iriada Volodina<br />-->
-  Jennifer Volpe<br />
+  Paige Hammond<br /> 
+  <!-- Pamela Licht<br /> -->
+  Kevin McHugh<br /> 
+  <!-- Patrizia Contenta<br /> -->
+  Jennifer Volpe<br /> 
+  Jules Julian<br /> 
+  <!-- David Hintz<br />--> 
+  <!-- Ricardo Sopin<br />-->     
+  Iradia Volodina<br />
+  Christopher Blotney<br />
+  
 
   <h3>MC</h3>
-  <!--John Mazza<br />-->
-  Bryce Miller<br />
+  <!-- Zachariah Spurrier -->
+  <!-- John Mazza<br /> -->
+  <!-- Bryce Miller<br /> -->
+  Kevin McNamara
 
   <h3>DJ</h3>
   Peter Collins<br />
 
   <h3>Scrutineer</h3>
-  <!-- Christopher Sayotovich<br /> -->
-  Leonard Diana<br/>
+  Christopher Sayotovich<br />   
+  <!--Leonard Diana<br/>-->
+
+  <h3>Deck Captain</h3>
+  <!-- Stephanie Kempf<br/> -->
+  Karen Pelland  
+
 </div>

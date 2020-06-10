@@ -29,7 +29,7 @@ $NUM_NEWSPAGE_NEWS_STORIES = 20;
 // End News Stories Settings
 
 // Begin Contact for Emails// correspond to options on contact form, indicate which email address to send contact request to
-//Unused since 2018
+// UNUPDATED SINCE AROUND 2017
 $EMAILS = array(1 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
 				2 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
 				3 => 'henslc@rpi.edu', //'ballroom-webmaster@union.lists.rpi.edu',
@@ -41,7 +41,6 @@ $EMAILS = array(1 => 'henslc@rpi.edu', //'ballroom@union.lists.rpi.edu',
 			);
 
 // subjects for emails sent via contact form to allow sorting
-//Unused since 2018
 $EMAIL_SUBJECT = array(1 => '[General Ballroom]',
 				2 => '[Showcase Request]',		
 				3 => '[Website Feedback]',
@@ -82,12 +81,12 @@ $team_tues_lesson = "7:00-9:00pm";
 $team_thurs_lesson = "9:00-10:00pm";
 $team_sun_lesson = "3:00-6:00pm";
 
-$start_of_lesson_message = "<p>The <b>Fall 2018 Lessons</b> 
+$start_of_lesson_message = "<p>The <b>Spring 2020 Lessons</b> 
 	are right around the corner! As the Intro Dance
-	 is Friday, August 31st, the first week of lessons will 
-	 begin on September 11th! The first Beginner Ballroom/ Latin 
-	 Club lesson will be on September 13th at 6pm. If you are 
-	 interested in Team, lessons start Tuesday, September 11th!
+	 is Friday, January 17th, the first week of lessons will 
+	 begin on Tuesday, January 21st! The first Beginner Ballroom/ Latin 
+	 Club lesson will be on January 23rd at 6pm. If you are 
+	 interested in Team, lessons start Tuesday, January 17th!
 	  As always, the first lesson of each style is free!</p>
 
 	  <p>Practices will begin the first week of classes.</p>
@@ -96,40 +95,34 @@ $start_of_lesson_message = "<p>The <b>Fall 2018 Lessons</b>
 // End Lesson times
 
 // Begin eboard members
-$president = "Claire Hensley, '18";
-//$tango_vp = "Vacant, Vacant";
-$lindy_vp = "Steven Beninati, '20";
-$latin_vp = "Susannah Kane, '20";
-$captain1 = "Alex Schneiderman, '19";
-$captain2 = "Sarah McRae, '20";
-//$tango_tres = "Vacant, Vacant";
-$lindy_tres = "Rachel Oehlkers, '21";
-$latin_tres = "Allison Daboval, '22";
-$team_tres = "Maria Ruiz Cardenas, '21";
-$marketing = "Troy Mundschenk, '21";
-$comp_coord = "Zachary Taylor, '21";
-$comp_coordinator = "Zachary";
-$social_chair = "Daniel Lubitz, '19; Samm Katcher, '19, Susannah Kane '20, Allison Daboval, '22";
-$soc_chair = "Daniel Lubitz, '19"
+$president = "Sam Wiegand, '22";
+$secretary = "Rachel Oehlkers, '21";
+$latin_vp = "Victoria Cervantezs, '21";    // Club VP
+$captain1 = "Emily Davey, '22";
+$captain2 = "Chang Ju Kim, '21";
+
+$latin_tres = "Kate Carbone, '23";  // Club Treasurer
+$team_tres = "Mercedez Young, '22";
+
+$marketing = "Skye Jacobson, '22";
+$comp_coord = "Matthew Fox, '22";
+$comp_coordinator = "Matthew";
+$webmaster = "Chang Ju Kim, '21";
+$social_chair = "Lauren Lepre, '23";
+
 $fundraising = "Vacant";
 // End eboard members
 
-//Begin eboard email addresses
-$president_email = "henslc@rpi.edu";
-//$tango_vp_email = "";
-$lindy_vp_email = "beninis@rpi.edu";
-$latin_vp_email = "kanes3@rpi.edu";
-$captain1_email = "schnea3@rpi.edu";
-$captain2_email = "mcraes@rpi.edu";
-//$tango_tres_email = "";
-$comp_coord_email = "tayloz2@rpi.edu";
-$social_chair_email = "rpi-social-dance@googlegroups.com";
-//$fundraising_email = "";
-//End eboard email addresses
+// Begin eboard emails
+$president_email = "wiegas@rpi.edu";
+$latin_vp_email = "cervav2@rpi.edu";
+$captain1_email = "daveye@rpi.edu";
 
-
+$comp_coord_email = "foxm6@rpi.edu";
+$social_chair_email = "leprel@rpi.edu";
 
 // Begin team mentors
+// UNUSED SINCE FALL 2019
 $mentor_rumba = "";
 $mentor_chacha = "";
 $mentor_swing = "";
@@ -137,13 +130,13 @@ $mentor_latin = "";
 $mentor_foxtrot = "";
 $mentor_waltz = "";
 $mentor_tango = "";
-$mentor_standard = "Kevin & Stephanie";
-$mentor_smooth = "Claire";
-$mentor_rhythm = "Brendan";
+$mentor_standard = "Kris & Jessica";
+$mentor_smooth = "Samm & Dan";
+$mentor_rhythm = "Samm & Dan";
 // End team mentors
 
 // Begin team mentor emails
-//Unused as of 2017
+// UNUSED SINCE 2017
 $mentor_email_rumba = "mubyak@rpi.edu";
 $mentor_email_chacha = "nicolepiche89@gmail.com";
 $mentor_email_swing = "wrighb3@rpi.edu";
@@ -155,6 +148,7 @@ $mentor_email_standard = "kckempf@gmail.com,nukechic007@gmail.com";
 // End team mentor emails
 
 // Begin team mentor dates
+// UNUSED SINCE FALL 2019
 $mentor_date_rumba = "Friday 6PM";
 $mentor_date_chacha = "TBA";
 $mentor_date_swing = "Sunday 4PM";
@@ -162,10 +156,15 @@ $mentor_date_latin = "By apt.";
 $mentor_date_foxtrot = "Tuesday/Thursday 9PM";
 $mentor_date_waltz = "Tuesday/Thursday 9PM";
 $mentor_date_tango = "Tuesday/Thursday 9PM";
-$mentor_date_standard = "Saturday 1PM";
-$mentor_date_rhythm = "By Appointment";
-$mentor_date_smooth = "By Appointment";
+$mentor_date_standard = "Saturday 1:00PM - 3:00PM";
+$mentor_date_rhythm = "Wednesday 6:30PM - 7:30PM";
+$mentor_date_smooth = "Wednesday 6:30PM - 7:30PM";
 // End team mentor dates
+
+// Begin team mentor location
+$mentor_location_rhythm = "Studio";
+$mentor_location_smooth = "Studio";
+$mentor_location_standard = "Studio";
 
 // Begin prices
 $price_single_student = "$60";
