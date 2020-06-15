@@ -1,9 +1,9 @@
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!-- Latest compiled JavaScript -->
-<script src="/bootstrap/js/bootstrap.min.js"></script>
+<script src="./bootstrap/js/bootstrap.min.js"></script>
 
 <?php
   require_once('VARS.php'); //contains definitions of various parameters for the site
@@ -17,8 +17,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="The home of RPI's ballroom dancing community." />
     <meta name="keywords" content="RPI, rensselaer, polytechnic, institute, albany, ny, new, york, capital, region, district, classes, lessons, college, dancesport, ballroom, dance, club, team, argentine, tango, swing, lindy, hop" />
-    <link rel="icon" type="image/x-icon" href="/site_images/favicon.ico" />
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="icon" type="image/x-icon" href="./site_images/favicon.ico" />
+    <link rel="stylesheet" href="./css/style.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>RPI Ballroom Dance | ballroom.union.rpi.edu | The home of RPI's ballroom dancing community.</title>
@@ -37,7 +37,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
 	  </button>
-	  <a class="navbar-brand" href="/">RPI Ballroom Dance</a>
+	  <a class="navbar-brand" href="./">RPI Ballroom Dance</a>
 	</div>
 	<div class="collapse navbar-collapse" id="myNavbar">
 	  <ul class="nav navbar-nav navbar-right">
@@ -46,20 +46,20 @@
             <li class="dropdown">
 	      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
 		<ul class="dropdown-menu" role="menu">
-			<li><a href="/ballroom-latin">Ballroom & Latin</a></li>
-			<li><a href="/salsa">Salsa</a></li>
-			<li><a href="/socialdance">Social Dancing</a></li>
+			<li><a href="./ballroom-latin">Ballroom & Latin</a></li>
+			<li><a href="./salsa">Salsa</a></li>
+			<li><a href="./socialdance">Social Dancing</a></li>
 			<!--<li><a href="/swing"><s>Lindy Hop Swing</s></a></li>  REMOVED AS OF 9/9/2019-->
 			<!--<li><a href="/tango"><s>Argentine Tango</s></a></li>  REMOVED AS OF 9/9/2019-->
 		<li class="divider"></li>
-		<li><a href="/officers">Officers</a></li>
-		<li><a href="/contact">Contact</a></li>
+		<li><a href="./officers">Officers</a></li>
+		<li><a href="./contact">Contact</a></li>
 		<!-- <li><a href="#">History</a></li> -->
 		<li class="divider"></li>
-		<li><a href="/donate">Donate</a></li>
-		<li><a href="/pricing">Pricing</a></li>
-		<li><a href="/schedule">Schedule</a></li>
-		<li><a href="/calendar">Calendar</a></li>
+		<li><a href="./donate">Donate</a></li>
+		<li><a href="./pricing">Pricing</a></li>
+		<li><a href="./schedule">Schedule</a></li>
+		<li><a href="./calendar">Calendar</a></li>
 	      </ul>
 	    </li>
 
@@ -67,29 +67,29 @@
             <li class="dropdown">
 	      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Team <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-		<li><a href="/team">Ballroom Team</a></li>
+		<li><a href="./team">Ballroom Team</a></li>
 		<li class="divider"></li>
-		<li><a href="/results">Past Competitions and Results</a></li>
-		<li><a href="/syllabus_steps">Team Syllabus Steps</a></li>
-		<!--<li><a href="/mentors">Team Mentors</a></li>-->  <!-- Edited out 9/5/19 until mentoring is decided. ALso check one other page, and also team page and also schedule -->
-		<li><a href="/team_policies">Team Policies</a></li>
+		<li><a href="./results">Past Competitions and Results</a></li>
+		<li><a href="./syllabus_steps">Team Syllabus Steps</a></li>
+		<!--<li><a href="./mentors">Team Mentors</a></li>-->  <!-- Edited out 9/5/19 until mentoring is decided. ALso check one other page, and also team page and also schedule -->
+		<li><a href="./team_policies">Team Policies</a></li>
 	      </ul>
 	    </li>
 
 	    <!-- COMPETITION -->
-	    <li><a href="/competition">Competition</a></li>
+	    <li><a href="./competition">Competition</a></li>
 
 	    <!-- RESOURCES -->
 	    <li class="dropdown">
 	      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Resources <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-		<li><a href="/dances">Types of Dance</a></li>
-		<li><a href="/etiquette">Social Dance Etiquette</a></li>
-		<li><a href="/music">Music</a></li>
+		<li><a href="./dances">Types of Dance</a></li>
+		<li><a href="./etiquette">Social Dance Etiquette</a></li>
+		<li><a href="./music">Music</a></li>
 		<li class="divider"></li>
-		<li><a href="/competing">Competition 101</a></li>
-		<li><a href="/checklist">Competition Checklist</a></li>
-		<li><a href="/calculator">YCN Point Calculator</a></li>
+		<li><a href="./competing">Competition 101</a></li>
+		<li><a href="./checklist">Competition Checklist</a></li>
+		<li><a href="./calculator">YCN Point Calculator</a></li>
 		<li class="divider"></li>
 		<li><a href="https://www.facebook.com/RPIBallroom">Facebook</a></li>
 		<li><a href="https://flickr.com/rpiballroom">Flickr</a></li>
@@ -98,7 +98,7 @@
 	    </li>
 
 	    <!-- FAQ -->
-            <li><a href="/faq">FAQ</a></li>
+            <li><a href="./faq">FAQ</a></li>
 
 	  </ul>
 	</div>

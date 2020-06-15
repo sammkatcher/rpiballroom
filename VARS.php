@@ -9,7 +9,7 @@ define("DATABASE", "ballroom_ballroom");    // The database name.
  
 
 //Begin Path Variables
-$BASE_PATH = '/index.php';
+$BASE_PATH = './index.php';
 $NEWS_IMG_FILEPATH = 'news_stories/images/';
 $NEWS_FILEPATH = 'news_stories/';
 $ADMIN_FILEPATH = 'restricted/';
