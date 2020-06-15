@@ -1,0 +1,30 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [NC,L]
+RewriteRule ^(.*)$ index.php?page=$1
+
+#set the default directory to index.php
+DirectoryIndex index.php
+
+#disable indexing
+Options -Indexes
+
+#custom error pages
+ErrorDocument 404 http://ballroom.union.rpi.edu/index.php?page=404
+ErrorDocument 403 http://ballroom.union.rpi.edu/index.php?page=403
+ErrorDocument 500 http://ballroom.union.rpi.edu/index.php?page=500
+
+# Protect the htaccess file
+<Files .htaccess>
+Order Allow,Deny
+Deny from all
+</Files>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the â€œea-php56â€� package as the default â€œPHPâ€� programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php56 .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
