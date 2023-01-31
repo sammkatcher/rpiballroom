@@ -77,10 +77,13 @@
   }
 
   function getEventInfo( $url, $fullname, &$numRounds, &$dances, &$totalNumCouples, &$inFinal ) {
+    // Fetch "event" page
     $urlHTML = file_get_contents($url);
     $pageHTML = str_get_html($urlHTML);
     $competitorNames = $pageHTML->find("a");
     $personFound = false;
+
+    // Find competitor in final
     foreach($competitorNames as $competitorNameTag) {
       $competitorName = trim(strtolower($competitorNameTag->innertext));
       $competitorName = preg_replace('/\s+/', ' ', $competitorName);
@@ -89,9 +92,9 @@
         break;
       }
     }
-
     $inFinal = $personFound;
 
+    // Determine number of rounds in event
     $select = $pageHTML->find("select[id=selCount]");
     if (sizeof($select) == 0) {
       $numRounds = 1;
@@ -99,6 +102,8 @@
     else {
       $numRounds = sizeof($select[0]->find("option"));
     }
+
+    // Get dances in event
     $dances = array();
     $danceHeaders = $pageHTML->find("td[class=h3]");
     $pattern = "/(.+) (.+)/";
@@ -122,20 +127,30 @@
       array_push($dances, $dance);
     }
 
+    // Get total number of couples in the event by getting the first round if necessary
     $totalNumCouples = 1;
     if ($numRounds != 1) {
       $ch = curl_init();
       $event_query = parse_url($url, PHP_URL_QUERY);
       $fields_string = $event_query . "&selCount=" . ($numRounds - 1);
-      curl_setopt($ch, CURLOPT_URL, "https://results.o2cm.com/scoresheet3.asp");
+      $clean_url = "https://" . parse_url($url, PHP_URL_HOST) . parse_url($url, PHP_URL_PATH);
+      curl_setopt($ch, CURLOPT_URL, $clean_url);
       curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
       curl_setopt($ch, CURLOPT_POST, 1);
       curl_setopt($ch, CURLOPT_POSTFIELDS, $fields_string);
       $result = curl_exec($ch);
       curl_close($ch);
       $pageHTML = str_get_html($result);
+      if (empty($pageHTML)) {
+        $totalNumCouples = "ERROR";
+        return;
+      }
     }
     $pageTables = $pageHTML->find("table[class=t1n]");
+    if (sizeof($pageTables) == 0) {
+        $totalNumCouples = "ERROR";
+        return;
+    }
     $resultsTable = $pageTables[0];
     $totalNumCouples = sizeof($resultsTable->find("tr")) - 2;
   }
@@ -245,6 +260,8 @@
     // Iterate over each competition
     foreach($personPage->find("td[class=t1n]") as $compRow) {
       $bTags = $compRow->find("b");
+
+      // Row is a competition
       if (sizeof($bTags) > 0) {
         $text = strtolower($bTags[0]->innertext);
         if (strpos($text, "no results") !== false) {
@@ -268,10 +285,13 @@
           $compCount += 1;
         }
       }
+      // Row is an event
       else if (sizeof($compRow->find("a")) > 0) {
         $aTag = $compRow->find("a")[0];
         $link = $aTag->href;
         $text = $aTag->innertext;
+
+        // Skip "Combine" events
         $pattern = "/(\d+)\) (\-\- Combine \-\- )?(.+)/";
         preg_match($pattern, $text, $matches, PREG_OFFSET_CAPTURE);
         if (strpos($matches[2][0], "-- Combine --") !== false) {
@@ -279,17 +299,24 @@
         }
         $notable = true;
         $placement = (int)$matches[1][0];
+
+        // YCN only cares if you are in the top 6
+        // Later on will confirm there are 2+ rounds for top 3 or 3+ rounds for top 6
         if ($placement > 6) {
           $notable = false;
           continue;
         }
         $eventName = $matches[3][0];
         $fullname = strtolower($fname . " " . $lname);
+
+        // Determine whether the couple was in the final
         getEventInfo($link, $fullname, $numRounds, $dances, $totalNumCouples, $inFinal);
         if (!$inFinal) {
           continue;
           $notable = false;
         }
+
+        // Calculate number of points
         $points = numPoints($placement, $numRounds);
         if ($points == 0) {
           continue;
@@ -316,6 +343,7 @@
           array_push($compData->compEvents, $eventData);
         }
 
+        // Print
         if ($notable) {
           echo "&nbsp;&nbsp;&nbsp;&nbsp;<b>Placed " . $placement . " of " . $totalNumCouples . "</b> in ";
         }
