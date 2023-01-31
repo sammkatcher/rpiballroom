@@ -70,6 +70,9 @@
 	#allow_url_include = ON;
     $url = getPersonO2cmUrl($firstName, $lastName);
     $urlHTML = file_get_contents($url);
+    if ($urlHTML === false) {
+      return false;
+    }
     return str_get_html($urlHTML);
   }
 
@@ -122,11 +125,12 @@
     $totalNumCouples = 1;
     if ($numRounds != 1) {
       $ch = curl_init();
-      $fields_string = "selCount=" . ($numRounds - 1);
-      curl_setopt($ch,CURLOPT_URL,$url);
+      $event_query = parse_url($url, PHP_URL_QUERY);
+      $fields_string = $event_query . "&selCount=" . ($numRounds - 1);
+      curl_setopt($ch, CURLOPT_URL, "https://results.o2cm.com/scoresheet3.asp");
       curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-      curl_setopt($ch,CURLOPT_POST,1);
-      curl_setopt($ch,CURLOPT_POSTFIELDS,$fields_string);
+      curl_setopt($ch, CURLOPT_POST, 1);
+      curl_setopt($ch, CURLOPT_POSTFIELDS, $fields_string);
       $result = curl_exec($ch);
       curl_close($ch);
       $pageHTML = str_get_html($result);
@@ -226,6 +230,10 @@
   function getResults($fname, $lname) {
     // Fetch individual's historical results
     $personPage = getPersonO2CMResults($fname, $lname);
+    if ($personPage === false) {
+      echo "No results - there was an error fetching data from o2cm.";
+      return array();
+    }
 
     // Set up return values
     $compName = "";
