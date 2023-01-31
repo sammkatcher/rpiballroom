@@ -32,17 +32,17 @@
     if ($numRounds >= 2 && $placement >= 1 && $placement <= 3) {
       switch ($placement) {
       case 1:
-	return 3;
-	break;
+    return 3;
+    break;
       case 2:
-	return 2;
-	break;
+    return 2;
+    break;
       case 3:
-	return 1;
-	break;
+    return 1;
+    break;
       default:
-	return 0;
-	break;
+    return 0;
+    break;
       }
     }
     else if ($numRounds >= 3 && $placement >= 4 && $placement <= 6) {
@@ -82,8 +82,8 @@
       $competitorName = trim(strtolower($competitorNameTag->innertext));
       $competitorName = preg_replace('/\s+/', ' ', $competitorName);
       if ($competitorName == $fullname) {
-	$personFound = true;
-	break;
+        $personFound = true;
+        break;
       }
     }
 
@@ -105,7 +105,7 @@
       $dance = str_replace("Am. ", "", $dance);
       $dance = str_replace("*", "", $dance);
       if (strpos(strtolower($dance), "viennese waltz") !== false) {
-	$dance = "V. Waltz";
+        $dance = "V. Waltz";
       }
       array_push($dances, $dance);
     }
@@ -114,7 +114,7 @@
       $dance = str_replace("Intl. ", "", $fullDance);
       $dance = str_replace("Am. ", "", $dance);
       if (strpos(strtolower($dance), "viennese waltz") !== false) {
-	$dance = "V. Waltz";
+        $dance = "V. Waltz";
       }
       array_push($dances, $dance);
     }
@@ -190,69 +190,74 @@
       return "Latin";
     }
     if (strpos($str, "am.") !== false &&
-	($dance == "waltz" ||
-	 $dance == "tango" ||
-	 $dance == "foxtrot" ||
-	 $dance == "v. waltz")) {
+      ($dance == "waltz" ||
+      $dance == "tango" ||
+      $dance == "foxtrot" ||
+      $dance == "v. waltz")) {
       return "Smooth";
     }
     if (strpos($str, "intl.") !== false &&
-	($dance == "waltz" ||
-	 $dance == "tango" ||
-	 $dance == "foxtrot" ||
-	 $dance == "quickstep" ||
-	 $dance == "v. waltz")) {
+      ($dance == "waltz" ||
+       $dance == "tango" ||
+       $dance == "foxtrot" ||
+       $dance == "quickstep" ||
+       $dance == "v. waltz")) {
       return "Standard";
     }
     if (strpos($str, "am.") !== false &&
-	($dance == "cha cha" ||
-	 $dance == "rumba" ||
-	 $dance == "swing" ||
-	 $dance == "mambo" ||
-	 $dance == "bolero")) {
+      ($dance == "cha cha" ||
+       $dance == "rumba" ||
+       $dance == "swing" ||
+       $dance == "mambo" ||
+       $dance == "bolero")) {
       return "Rhythm";
     }
     if (strpos($str, "intl.") !== false &&
-	($dance == "cha cha" ||
-	 $dance == "rumba" ||
-	 $dance == "samba" ||
-	 $dance == "jive" ||
-	 $dance == "paso doble")) {
+      ($dance == "cha cha" ||
+       $dance == "rumba" ||
+       $dance == "samba" ||
+       $dance == "jive" ||
+       $dance == "paso doble")) {
       return "Latin";
     }
     return "None";
   }
 
   function getResults($fname, $lname) {
+    // Fetch individual's historical results
     $personPage = getPersonO2CMResults($fname, $lname);
+
+    // Set up return values
     $compName = "";
     $compDate = "";
     $compsData = array();
     $compData = new Comp();
     $compCount = 0;
+
+    // Iterate over each competition
     foreach($personPage->find("td[class=t1n]") as $compRow) {
       $bTags = $compRow->find("b");
       if (sizeof($bTags) > 0) {
         $text = strtolower($bTags[0]->innertext);
         if (strpos($text, "no results") !== false) {
-  	  echo "No Results. Make sure you name is input correctly";
-  	  exit;
+          echo "No Results. Make sure you name is input correctly";
+          exit;
         }
         else {
-	  if ($compCount > 0) {
-	    if (sizeof($compData->compEvents) > 0) {
-	      array_push($compsData, $compData);
-	    }
-	    $compData = new Comp();
-	  }
+          if ($compCount > 0) {
+            if (sizeof($compData->compEvents) > 0) {
+              array_push($compsData, $compData);
+            }
+            $compData = new Comp();
+          }
           $pattern = "/(\d\d\-\d\d\-\d\d) \- (.*)/";
           preg_match($pattern, $text, $matches, PREG_OFFSET_CAPTURE);
           $compName = $matches[2][0];
           $compDate = $matches[1][0];
-  	  echo "<b>" . $compName . "</b> on " . $compDate . "<br />";
-	  $compData->compName = $compName;
-	  $compData->compDate = $compDate;
-	  $compCount += 1;
+          echo "<b>" . $compName . "</b> on " . $compDate . "<br />";
+          $compData->compName = $compName;
+          $compData->compDate = $compDate;
+          $compCount += 1;
         }
       }
       else if (sizeof($compRow->find("a")) > 0) {
@@ -264,55 +269,55 @@
         if (strpos($matches[2][0], "-- Combine --") !== false) {
           continue;
         }
-	$notable = true;
+        $notable = true;
         $placement = (int)$matches[1][0];
         if ($placement > 6) {
-	  $notable = false;
-	  continue;
-	}
+          $notable = false;
+          continue;
+        }
         $eventName = $matches[3][0];
         $fullname = strtolower($fname . " " . $lname);
         getEventInfo($link, $fullname, $numRounds, $dances, $totalNumCouples, $inFinal);
         if (!$inFinal) {
-	  continue;
-	  $notable = false;
-	}
-	$points = numPoints($placement, $numRounds);
-	if ($points == 0) {
-	  continue;
-	  $notable = false;
-	}
+          continue;
+          $notable = false;
+        }
+        $points = numPoints($placement, $numRounds);
+        if ($points == 0) {
+          continue;
+          $notable = false;
+        }
         $level = getLevel($eventName);
         if ($level == -1) { continue; }
-	if ($level == NEWCOMER) {
-	  continue;
-	  $notable = false;
-	}
+        if ($level == NEWCOMER) {
+          continue;
+          $notable = false;
+        }
         $category = getCategory($eventName, $dances[0]);
 
-	foreach ($dances as $dance) {
-	  $eventData = new CompEvent();
-	  $eventData->placement = $placement;
+        foreach ($dances as $dance) {
+          $eventData = new CompEvent();
+          $eventData->placement = $placement;
           $eventData->numRounds = $numRounds;
           $eventData->totalNumCouples = $totalNumCouples;
-	  $eventData->points = $points;
-	  $eventData->level = $level;
-	  $eventData->category = $category;
-	  $eventData->dance = $dance;
-	  $eventData->url = $link;
-	  array_push($compData->compEvents, $eventData);
-	}
+          $eventData->points = $points;
+          $eventData->level = $level;
+          $eventData->category = $category;
+          $eventData->dance = $dance;
+          $eventData->url = $link;
+          array_push($compData->compEvents, $eventData);
+        }
 
-	if ($notable) {
-	  echo "&nbsp;&nbsp;&nbsp;&nbsp;<b>Placed " . $placement . " of " . $totalNumCouples . "</b> in ";
-	}
-	else {
-	  echo "&nbsp;&nbsp;&nbsp;&nbsp;Placed " . $placement . " of " . $totalNumCouples . " in ";
-	}
-	echo "<a href='" . $link . "'>" . $eventName . "</a>";
-	echo " (" . $numRounds . " Rounds, ";
-	echo "Level: " . $level . ", ";
-	echo "Category: " . $category . ", ";
+        if ($notable) {
+          echo "&nbsp;&nbsp;&nbsp;&nbsp;<b>Placed " . $placement . " of " . $totalNumCouples . "</b> in ";
+        }
+        else {
+          echo "&nbsp;&nbsp;&nbsp;&nbsp;Placed " . $placement . " of " . $totalNumCouples . " in ";
+        }
+        echo "<a href='" . $link . "'>" . $eventName . "</a>";
+        echo " (" . $numRounds . " Rounds, ";
+        echo "Level: " . $level . ", ";
+        echo "Category: " . $category . ", ";
         echo "Dances: " . implode(", ",$dances) . ")";
         echo "<br />";
       }
